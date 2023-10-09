@@ -1,0 +1,791 @@
+8/20/2023 7:52:08 AM|sportTemplate|rugby|sportName|o8WoWvpPACn2Kxsw5| Standard
+2023/08/20 11:42:19|videoPlayStartStopTimes|1388=3672;4037=6528
+8/20/2023 7:53:59 AM|playerStat|against|6|Neutral Tackle|2|8/20/2023 7:53:59 AM|7.72770521044731
+8/20/2023 7:54:05 AM|playerStat|against|6|Defender in Position||8/20/2023 7:54:05 AM|11.5233923941851
+8/20/2023 7:54:23 AM|playerStat|against|9|Kick Fielded Unsuccessfully||8/20/2023 7:54:23 AM|22.2443782240152
+8/20/2023 7:55:07 AM|playerStat|for|7|Gainline Success|3|8/20/2023 7:55:07 AM|62.8768251538277
+8/20/2023 7:55:26 AM|playerStat|for|4|Effective Ruck||8/20/2023 7:55:26 AM|64.4352331459522
+8/20/2023 7:55:28 AM|playerStat|for|5|Effective Ruck||8/20/2023 7:55:28 AM|65.3741775155067
+8/20/2023 7:55:37 AM|playerStat|for|9|Good Pass||8/20/2023 7:55:37 AM|67.7167655229568
+8/20/2023 7:55:42 AM|playerStat|for|1|Gainline Success|3|8/20/2023 7:55:42 AM|69.1476249396801
+8/20/2023 7:55:47 AM|playerStat|for|3|Effective Ruck||8/20/2023 7:55:47 AM|69.8826540708542
+8/20/2023 7:55:48 AM|playerStat|for|2|Effective Ruck||8/20/2023 7:55:48 AM|70.4486000984907
+8/20/2023 7:55:52 AM|playerStat|for|9|Good Pass||8/20/2023 7:55:52 AM|73.6853483021259
+8/20/2023 7:56:19 AM|playerStat|for|6|Gainline Success|4|8/20/2023 7:56:19 AM|75.9464920759201
+8/20/2023 7:56:23 AM|playerStat|for|5|Effective Ruck||8/20/2023 7:56:23 AM|77.0363418459892
+8/20/2023 7:57:00 AM|playerStat|for|4|Effective Ruck||8/20/2023 7:57:00 AM|77.3186547756195
+8/20/2023 7:57:03 AM|playerStat|for|9|Good Pass||8/20/2023 7:57:03 AM|79.3175927996635
+8/20/2023 7:57:05 AM|playerStat|for|10|Good Pass||8/20/2023 7:57:05 AM|80.2274934649467
+8/20/2023 7:57:08 AM|playerStat|for|12|Good Pass||8/20/2023 7:57:08 AM|81.5644178241491
+8/20/2023 7:57:13 AM|playerStat|for|15|Good Pass||8/20/2023 7:57:13 AM|83.7452344298363
+8/20/2023 7:57:17 AM|playerStat|for|14|Gainline Success|4|8/20/2023 7:57:17 AM|85.0700741708279
+8/20/2023 7:57:20 AM|playerStat|for|12|Effective Ruck||8/20/2023 7:57:20 AM|86.0740114450455
+8/20/2023 7:57:26 AM|playerStat|for|13|Effective Ruck||8/20/2023 7:57:26 AM|86.8378811776638
+8/20/2023 7:57:32 AM|playerStat|for|9|Good Pass||8/20/2023 7:57:32 AM|90.361613675952
+8/20/2023 7:57:51 AM|playerStat|for|5|Gainline Success|4|8/20/2023 7:57:51 AM|92.4751016944647
+8/20/2023 7:57:57 AM|playerStat|for|4|Effective Ruck||8/20/2023 7:57:57 AM|93.6709711402655
+8/20/2023 7:57:58 AM|playerStat|for|3|Effective Ruck||8/20/2023 7:57:58 AM|94.4849057197571
+8/20/2023 7:58:02 AM|playerStat|for|9|Good Pass||8/20/2023 7:58:02 AM|97.4777274280787
+8/20/2023 7:58:04 AM|playerStat|for|10|Good Pass||8/20/2023 7:58:04 AM|98.6446547210217
+8/20/2023 7:58:07 AM|playerStat|for|1|Gainline unsuccessful|3|8/20/2023 7:58:07 AM|99.8655058145523
+8/20/2023 7:58:10 AM|playerStat|for|2|Effective Ruck||8/20/2023 7:58:10 AM|100.9544416219
+8/20/2023 7:58:13 AM|playerStat|for|6|Effective Ruck||8/20/2023 7:58:13 AM|101.832353591919
+8/20/2023 7:58:17 AM|playerStat|for|9|Good Pass||8/20/2023 7:58:17 AM|104.710219100118
+8/20/2023 7:58:20 AM|playerStat|for|10|Good Pass||8/20/2023 7:58:20 AM|106.188096821308
+8/20/2023 7:58:30 AM|playerStat|for|12|Defender Beaten|1|8/20/2023 7:58:30 AM|112.155562534928
+8/20/2023 7:58:34 AM|playerStat|for|12|Gainline Success|13|8/20/2023 7:58:34 AM|113.050535142422
+8/20/2023 7:58:40 AM|playerStat|for|10|Effective Ruck||8/20/2023 7:58:40 AM|115.107357472181
+8/20/2023 7:58:44 AM|playerStat|for|13|Effective Ruck||8/20/2023 7:58:44 AM|117.273246020079
+8/20/2023 7:58:50 AM|playerStat|for|10|Good Pass||8/20/2023 7:58:50 AM|119.491941303015
+8/20/2023 7:58:53 AM|deletePlayerStat|for|10|Effective Ruck|115.11
+8/20/2023 7:58:59 AM|playerStat|for|9|Effective Ruck||8/20/2023 7:58:59 AM|115.3138114959
+8/20/2023 7:59:08 AM|playerStat|for|1|Gainline Success|5|8/20/2023 7:59:08 AM|122.083431825042
+8/20/2023 7:59:11 AM|playerStat|for|2|Effective Ruck||8/20/2023 7:59:11 AM|122.78037917614
+8/20/2023 7:59:16 AM|playerStat|for|8|Effective Ruck||8/20/2023 7:59:16 AM|123.195318251848
+8/20/2023 7:59:17 AM|playerStat|for|3|Effective Ruck||8/20/2023 7:59:17 AM|123.676265746355
+8/20/2023 7:59:23 AM|playerStat|for|10|Good Pass||8/20/2023 7:59:23 AM|128.384900137782
+8/20/2023 7:59:28 AM|playerStat|for|6|Defender Beaten|1|8/20/2023 7:59:28 AM|130.649699762464
+8/20/2023 7:59:31 AM|playerStat|for|6|Gainline Success|8|8/20/2023 7:59:31 AM|131.476632922888
+8/20/2023 7:59:47 AM|playerStat|for|5|Effective Ruck||8/20/2023 7:59:47 AM|133.238143742085
+8/20/2023 7:59:49 AM|playerStat|for|4|Effective Ruck||8/20/2023 7:59:49 AM|133.747119426727
+8/20/2023 7:59:52 AM|playerStat|for|9|Good Pass||8/20/2023 7:59:52 AM|135.726965785027
+8/20/2023 7:59:56 AM|playerStat|for|15|Good Pass||8/20/2023 7:59:56 AM|137.467861667275
+8/20/2023 8:00:04 AM|playerStat|for|13|Gainline unsuccessful|5|8/20/2023 8:00:04 AM|139.425569817424
+8/20/2023 8:00:07 AM|playerStat|for|12|Effective Ruck||8/20/2023 8:00:07 AM|140.399549424648
+8/20/2023 8:00:10 AM|playerStat|for|15|Effective Ruck||8/20/2023 8:00:10 AM|140.903447538614
+8/20/2023 8:00:22 AM|playerStat|for|9|Good Pass||8/20/2023 8:00:22 AM|144.584990933537
+8/20/2023 8:00:28 AM|playerStat|for|7|Gainline Success|8|8/20/2023 8:00:28 AM|148.036723479629
+8/20/2023 8:00:30 AM|playerStat|for|14|Effective Ruck||8/20/2023 8:00:30 AM|148.542652621865
+8/20/2023 8:00:37 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:00:37 AM|149.887497991323
+8/20/2023 8:00:39 AM|playerStat|for|9|Good Pass||8/20/2023 8:00:39 AM|151.266363084316
+8/20/2023 8:00:41 AM|playerStat|for|10|Good Pass||8/20/2023 8:00:41 AM|152.820201262832
+8/20/2023 8:00:44 AM|playerStat|for|15|Good Pass||8/20/2023 8:00:44 AM|154.631066069007
+8/20/2023 8:00:53 AM|playerStat|for|1|Gainline unsuccessful|5|8/20/2023 8:00:53 AM|156.835848808289
+8/20/2023 8:00:55 AM|playerStat|for|1|Bad Offload||8/20/2023 8:00:55 AM|158.426753252745
+8/20/2023 8:01:09 AM|playerStat|for|8|Ball Lost||8/20/2023 8:01:09 AM|160.596196100116
+8/20/2023 8:01:33 AM|playerStat|for|10|Kick at Goal Successful|1|8/20/2023 8:01:33 AM|231.34341005981
+8/20/2023 8:02:04 AM|playerStat|for|4|Carries in Open Play|3|8/20/2023 8:02:04 AM|258.990477740765
+8/20/2023 8:02:07 AM|playerStat|for|3|Effective Ruck||8/20/2023 8:02:07 AM|260.571328595281
+8/20/2023 8:02:09 AM|playerStat|for|2|Effective Ruck||8/20/2023 8:02:09 AM|261.029325470328
+8/20/2023 8:02:14 AM|playerStat|for|9|Good Pass||8/20/2023 8:02:14 AM|265.702010661364
+8/20/2023 8:02:19 AM|playerStat|for|12|Bad Pass||8/20/2023 8:02:19 AM|268.224750876427
+8/20/2023 8:02:27 AM|playerStat|against|8|Intercept||8/20/2023 8:02:27 AM|270.933533281088
+8/20/2023 8:02:37 AM|playerStat|for|8|Carries in Open Play|4|8/20/2023 8:02:37 AM|272.259286984801
+8/20/2023 8:02:40 AM|playerStat|for|8|Good Offload||8/20/2023 8:02:40 AM|274.093203961849
+8/20/2023 8:02:45 AM|playerStat|for|11|Carries in Open Play|10|8/20/2023 8:02:45 AM|276.654025956988
+8/20/2023 8:02:47 AM|playerStat|for|11|Ball Lost||8/20/2023 8:02:47 AM|278.031875535846
+8/20/2023 8:03:35 AM|playerStat|against|8|Passive Tackle|3|8/20/2023 8:03:35 AM|312.305579155684
+8/20/2023 8:03:43 AM|playerStat|against|3|Tackle Assist||8/20/2023 8:03:43 AM|313.119513735175
+8/20/2023 8:03:45 AM|playerStat|against|8|Defender in Position||8/20/2023 8:03:45 AM|314.05845810473
+8/20/2023 8:03:46 AM|playerStat|against|3|Defender in Position||8/20/2023 8:03:46 AM|314.593430951238
+8/20/2023 8:03:52 AM|playerStat|against|9|Neutral Tackle|3|8/20/2023 8:03:52 AM|315.738321587443
+8/20/2023 8:03:57 AM|playerStat|against|7|Tackle Assist||8/20/2023 8:03:57 AM|315.89014095068
+8/20/2023 8:03:59 AM|playerStat|against|7|Defender in Position||8/20/2023 8:03:59 AM|317.213965177536
+8/20/2023 8:04:01 AM|playerStat|against|9|Defender in Position||8/20/2023 8:04:01 AM|318.37490093708
+8/20/2023 8:04:10 AM|playerStat|against|2|Dominant Tackle|2|8/20/2023 8:04:10 AM|320.712614476681
+8/20/2023 8:04:14 AM|playerStat|against|1|Effective Ruck||8/20/2023 8:04:14 AM|321.688320457935
+8/20/2023 8:04:17 AM|playerStat|against|2|Defender in Position||8/20/2023 8:04:17 AM|323.050124913454
+8/20/2023 8:04:25 AM|playerStat|against|6|Dominant Tackle|2|8/20/2023 8:04:25 AM|327.09390220046
+8/20/2023 8:04:32 AM|playerStat|against|6|Defender in Position||8/20/2023 8:04:32 AM|328.844851672649
+8/20/2023 8:04:35 AM|playerStat|against|13|Tackle Missed||8/20/2023 8:04:35 AM|329.371700406075
+8/20/2023 8:04:42 AM|playerStat|against|4|Neutral Tackle|2|8/20/2023 8:04:42 AM|331.007490575314
+8/20/2023 8:04:47 AM|playerStat|against|6|Tackle Assist||8/20/2023 8:04:47 AM|331.142350852489
+8/20/2023 8:04:50 AM|playerStat|against|6|Effective Ruck||8/20/2023 8:04:50 AM|332.662372410297
+8/20/2023 8:04:52 AM|playerStat|against|4|Defender in Position||8/20/2023 8:04:52 AM|333.782281398773
+8/20/2023 8:04:57 AM|playerStat|against|6|Defender in Position||8/20/2023 8:04:57 AM|337.496829003096
+8/20/2023 8:05:06 AM|playerStat|against|5|Dominant Tackle|2|8/20/2023 8:05:06 AM|342.572571754456
+8/20/2023 8:05:12 AM|playerStat|against|1|Tackle Assist||8/20/2023 8:05:12 AM|342.184442251921
+8/20/2023 8:05:14 AM|playerStat|against|5|Defender in Position||8/20/2023 8:05:14 AM|343.624238193035
+8/20/2023 8:05:16 AM|playerStat|against|1|Defender in Position||8/20/2023 8:05:16 AM|345.262059390545
+8/20/2023 8:05:30 AM|playerStat|against|5|Passive Tackle|2|8/20/2023 8:05:30 AM|346.919581562281
+8/20/2023 8:05:42 AM|playerStat|against|5|Defender in Position||8/20/2023 8:05:42 AM|350.975138813257
+8/20/2023 8:05:49 AM|playerStat|against|6|Passive Tackle|2|8/20/2023 8:05:49 AM|350.973107784987
+8/20/2023 8:05:52 AM|playerStat|against|6|Defender in Position||8/20/2023 8:05:52 AM|352.736040323973
+8/20/2023 8:05:59 AM|playerStat|against|3|Neutral Tackle|2|8/20/2023 8:05:59 AM|355.371705710888
+8/20/2023 8:06:04 AM|playerStat|against|3|Defender in Position||8/20/2023 8:06:04 AM|358.511472314596
+8/20/2023 8:06:18 AM|playerStat|against|6|Dominant Tackle|2|8/20/2023 8:06:18 AM|361.542172700167
+8/20/2023 8:06:29 AM|playerStat|against|6|Defender in Position||8/20/2023 8:06:29 AM|365.125515878201
+8/20/2023 8:06:37 AM|playerStat|against|3|Passive Tackle|2|8/20/2023 8:06:37 AM|368.015262901783
+8/20/2023 8:06:39 AM|playerStat|against|4|Effective Ruck||8/20/2023 8:06:39 AM|368.642241328955
+8/20/2023 8:06:43 AM|playerStat|against|3|Defender in Position||8/20/2023 8:06:43 AM|371.720061570406
+8/20/2023 8:06:49 AM|playerStat|against|1|Neutral Tackle|2|8/20/2023 8:06:49 AM|374.609808593988
+8/20/2023 8:06:51 AM|playerStat|against|4|Effective Ruck||8/20/2023 8:06:51 AM|375.820707648993
+8/20/2023 8:06:53 AM|playerStat|against|1|Defender in Position||8/20/2023 8:06:53 AM|377.493665635586
+8/20/2023 8:07:09 AM|playerStat|against|12|Dominant Tackle|2|8/20/2023 8:07:09 AM|380.927931338549
+8/20/2023 8:07:12 AM|playerStat|against|14|Tackle Missed||8/20/2023 8:07:12 AM|381.123925566673
+8/20/2023 8:07:15 AM|playerStat|against|12|Defender in Position||8/20/2023 8:07:15 AM|382.182903707027
+8/20/2023 8:07:19 AM|playerStat|against|13|Effective Ruck||8/20/2023 8:07:19 AM|383.816865950823
+8/20/2023 8:07:25 AM|playerStat|against|15|Neutral Tackle|2|8/20/2023 8:07:25 AM|387.384570211172
+8/20/2023 8:07:28 AM|playerStat|against|15|Defender in Position||8/20/2023 8:07:28 AM|388.854425370693
+8/20/2023 8:07:45 AM|playerStat|for|9|Good Pass||8/20/2023 8:07:45 AM|427.570901781321
+8/20/2023 8:07:49 AM|playerStat|for|12|Defender Beaten|1|8/20/2023 8:07:49 AM|429.3037751019
+8/20/2023 8:07:52 AM|playerStat|for|12|Gainline Success|6|8/20/2023 8:07:52 AM|429.893585711718
+8/20/2023 8:07:58 AM|playerStat|for|6|Effective Ruck||8/20/2023 8:07:58 AM|430.768552690744
+8/20/2023 8:08:02 AM|playerStat|for|13|Effective Ruck||8/20/2023 8:08:02 AM|431.222284406424
+8/20/2023 8:08:47 AM|playerStat|for|9|Good Pass||8/20/2023 8:08:47 AM|510.259546458721
+8/20/2023 8:08:50 AM|playerStat|for|10|Good Pass||8/20/2023 8:08:50 AM|511.687359333038
+8/20/2023 8:09:04 AM|playerStat|for|8|Linebreak||8/20/2023 8:09:04 AM|512.409796088934
+8/20/2023 8:09:12 AM|playerStat|for|8|Gainline Success|19|8/20/2023 8:09:12 AM|515.371644616127
+8/20/2023 8:09:14 AM|playerStat|for|8|Good Offload||8/20/2023 8:09:14 AM|516.977578669786
+8/20/2023 8:09:19 AM|playerStat|for|11|Carries in Open Play|8|8/20/2023 8:09:19 AM|518.369442343712
+8/20/2023 8:09:22 AM|playerStat|for|11|Ball Lost||8/20/2023 8:09:22 AM|520.3702082932
+8/20/2023 8:10:48 AM|playerStat|for|2|Ball Lost||8/20/2023 8:10:48 AM|608.608434617519
+8/20/2023 8:11:23 AM|playerStat|for|9|Good Pass||8/20/2023 8:11:23 AM|674.566483914852
+8/20/2023 8:11:26 AM|playerStat|for|10|Good Pass||8/20/2023 8:11:26 AM|676.306262731552
+8/20/2023 8:11:32 AM|playerStat|for|13|Defender Beaten|1|8/20/2023 8:11:32 AM|677.608151853085
+8/20/2023 8:11:36 AM|playerStat|for|13|Gainline Success|10|8/20/2023 8:11:36 AM|679.288015335798
+8/20/2023 8:11:42 AM|playerStat|for|6|Effective Ruck||8/20/2023 8:11:42 AM|680.319777697325
+8/20/2023 8:11:52 AM|playerStat|for|4|Effective Ruck||8/20/2023 8:11:52 AM|680.557611107826
+8/20/2023 8:11:55 AM|playerStat|for|9|Good Pass||8/20/2023 8:11:55 AM|683.280407607555
+8/20/2023 8:12:03 AM|deletePlayerStat|for|4|Effective Ruck|680.56
+8/20/2023 8:12:04 AM|playerStat|for|8|Effective Ruck||8/20/2023 8:12:04 AM|680.571015894413
+8/20/2023 8:12:11 AM|playerStat|for|4|Defender Beaten|1|8/20/2023 8:12:11 AM|684.175684869289
+8/20/2023 8:12:13 AM|playerStat|for|4|Gainline Success|5|8/20/2023 8:12:13 AM|685.153624981642
+8/20/2023 8:12:15 AM|playerStat|for|3|Effective Ruck||8/20/2023 8:12:15 AM|686.070634245873
+8/20/2023 8:12:17 AM|playerStat|for|2|Effective Ruck||8/20/2023 8:12:17 AM|686.802616834641
+8/20/2023 8:12:20 AM|playerStat|for|9|Good Pass||8/20/2023 8:12:20 AM|688.410378813744
+8/20/2023 8:12:22 AM|playerStat|for|1|Good Pass||8/20/2023 8:12:22 AM|689.790259420872
+8/20/2023 8:12:32 AM|playerStat|for|15|Gainline unsuccessful|2|8/20/2023 8:12:32 AM|691.812148064375
+8/20/2023 8:12:35 AM|playerStat|for|1|Effective Ruck||8/20/2023 8:12:35 AM|692.917027443647
+8/20/2023 8:12:40 AM|playerStat|for|9|Ineffective Ruck||8/20/2023 8:12:40 AM|693.649822443724
+8/20/2023 8:12:44 AM|playerStat|for|7|Good Pass||8/20/2023 8:12:44 AM|696.349668323994
+8/20/2023 8:12:55 AM|playerStat|for|2|Gainline unsuccessful|4|8/20/2023 8:12:55 AM|698.566332578659
+8/20/2023 8:13:01 AM|playerStat|for|4|Effective Ruck||8/20/2023 8:13:01 AM|699.908029854298
+8/20/2023 8:13:02 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:13:02 AM|700.539070338011
+8/20/2023 8:13:12 AM|playerStat|for|9|Good Pass||8/20/2023 8:13:12 AM|703.431660801172
+8/20/2023 8:13:14 AM|playerStat|for|10|Good Pass||8/20/2023 8:13:14 AM|704.351513504982
+8/20/2023 8:13:19 AM|playerStat|for|3|Gainline Success|6|8/20/2023 8:13:19 AM|705.958463072777
+8/20/2023 8:13:24 AM|playerStat|for|6|Effective Ruck||8/20/2023 8:13:24 AM|707.080199986696
+8/20/2023 8:13:27 AM|playerStat|for|12|Effective Ruck||8/20/2023 8:13:27 AM|708.234027147293
+8/20/2023 8:13:29 AM|playerStat|for|9|Good Pass||8/20/2023 8:13:29 AM|709.72500500083
+8/20/2023 8:13:31 AM|playerStat|for|10|Good Pass||8/20/2023 8:13:31 AM|710.838820904493
+8/20/2023 8:13:33 AM|playerStat|for|13|Good Pass||8/20/2023 8:13:33 AM|712.032659322023
+8/20/2023 8:13:36 AM|playerStat|for|8|Defender Beaten|1|8/20/2023 8:13:36 AM|713.440568119287
+8/20/2023 8:13:39 AM|playerStat|for|8|Gainline unsuccessful|5|8/20/2023 8:13:39 AM|713.67555809021
+8/20/2023 8:13:43 AM|playerStat|for|13|Effective Ruck||8/20/2023 8:13:43 AM|715.000600934029
+8/20/2023 8:13:45 AM|playerStat|for|10|Effective Ruck||8/20/2023 8:13:45 AM|715.884504437447
+8/20/2023 8:13:49 AM|playerStat|for|9|Good Pass||8/20/2023 8:13:49 AM|718.842290908098
+8/20/2023 8:13:53 AM|playerStat|for|4|Gainline unsuccessful|2|8/20/2023 8:13:53 AM|720.073094040155
+8/20/2023 8:14:00 AM|playerStat|for|12|Effective Ruck||8/20/2023 8:14:00 AM|721.165990352631
+8/20/2023 8:14:00 AM|playerStat|for|2|Effective Ruck||8/20/2023 8:14:00 AM|721.605911076069
+8/20/2023 8:14:05 AM|playerStat|for|9|Good Pass||8/20/2023 8:14:05 AM|724.916690260172
+8/20/2023 8:14:09 AM|playerStat|for|14|Defender Beaten|1|8/20/2023 8:14:09 AM|727.06450265646
+8/20/2023 8:14:12 AM|playerStat|for|14|Gainline Success|5|8/20/2023 8:14:12 AM|727.951452702284
+8/20/2023 8:14:19 AM|playerStat|for|8|Effective Ruck||8/20/2023 8:14:19 AM|729.267355918884
+8/20/2023 8:14:20 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:14:20 AM|729.933330088854
+8/20/2023 8:14:24 AM|playerStat|for|9|Good Pass||8/20/2023 8:14:24 AM|732.706089884043
+8/20/2023 8:14:29 AM|playerStat|for|4|Gainline unsuccessful|1|8/20/2023 8:14:29 AM|734.160915434361
+8/20/2023 8:14:31 AM|playerStat|for|2|Effective Ruck||8/20/2023 8:14:31 AM|735.156931698322
+8/20/2023 8:14:35 AM|playerStat|for|9|Good Pass||8/20/2023 8:14:35 AM|738.163665950298
+8/20/2023 8:14:37 AM|playerStat|for|10|Good Pass||8/20/2023 8:14:37 AM|739.273622900248
+8/20/2023 8:14:40 AM|playerStat|for|1|Good Pass||8/20/2023 8:14:40 AM|740.508488088846
+8/20/2023 8:14:43 AM|playerStat|for|13|Good Pass||8/20/2023 8:14:43 AM|742.453400760889
+8/20/2023 8:14:51 AM|playerStat|for|7|Good Pass||8/20/2023 8:14:51 AM|745.310042023659
+8/20/2023 8:15:04 AM|playerStat|for|11|Avg Pass||8/20/2023 8:15:04 AM|746.431778937578
+8/20/2023 8:15:06 AM|playerStat|for|11|Ball Lost||8/20/2023 8:15:06 AM|747.149747431278
+8/20/2023 8:15:50 AM|playerStat|against|9|Tackle Missed||8/20/2023 8:15:50 AM|787.999819040298
+8/20/2023 8:16:01 AM|playerStat|against|6|Dominant Tackle|2|8/20/2023 8:16:01 AM|788.986695677042
+8/20/2023 8:16:04 AM|playerStat|against|6|Defender in Position||8/20/2023 8:16:04 AM|790.677526712418
+8/20/2023 8:16:14 AM|playerStat|against|9|Penalty Conceded||8/20/2023 8:16:14 AM|797.23896664381
+8/20/2023 8:17:13 AM|playerStat|against|12|Dominant Tackle|1|8/20/2023 8:17:13 AM|881.662312567234
+8/20/2023 8:17:16 AM|playerStat|against|13|Dominant Tackle|1|8/20/2023 8:17:16 AM|882.065268576145
+8/20/2023 8:17:19 AM|playerStat|against|12|Defender in Position||8/20/2023 8:17:19 AM|882.975372344255
+8/20/2023 8:17:20 AM|playerStat|against|13|Defender in Position||8/20/2023 8:17:20 AM|883.22132986784
+8/20/2023 8:17:50 AM|playerStat|against|1|Penalty Conceded||8/20/2023 8:17:50 AM|868.582287400961
+8/20/2023 8:18:12 AM|playerStat|against|5|Turnover Made||8/20/2023 8:18:12 AM|937.741034150124
+8/20/2023 8:18:20 AM|playerStat|for|1|Effective Ruck||8/20/2023 8:18:20 AM|938.026799827814
+8/20/2023 8:18:26 AM|playerStat|for|4|Effective Ruck||8/20/2023 8:18:26 AM|941.539463222027
+8/20/2023 8:18:29 AM|playerStat|for|9|Good Pass||8/20/2023 8:18:29 AM|943.76323607564
+8/20/2023 8:18:44 AM|playerStat|for|10|Good Kick|38|8/20/2023 8:18:44 AM|948.788812428713
+8/20/2023 8:19:06 AM|playerStat|against|14|Intercept||8/20/2023 8:19:06 AM|956.220954179764
+8/20/2023 8:19:15 AM|playerStat|for|14|Carries in Open Play|8|8/20/2023 8:19:15 AM|959.377781420946
+8/20/2023 8:19:20 AM|playerStat|for|14|Ball Lost||8/20/2023 8:19:20 AM|961.914535731077
+8/20/2023 8:19:49 AM|playerStat|against|1|Dominant Tackle|2|8/20/2023 8:19:49 AM|996.462529718876
+8/20/2023 8:19:53 AM|deletePlayerStat|against|1|Dominant Tackle|996.46
+8/20/2023 8:19:53 AM|playerStat|against|1|Tackle Missed||8/20/2023 8:19:53 AM|998.455374658108
+8/20/2023 8:20:03 AM|playerStat|against|4|Neutral Tackle|3|8/20/2023 8:20:03 AM|1002.46401515603
+8/20/2023 8:20:14 AM|playerStat|against|3|Passive Tackle|2|8/20/2023 8:20:14 AM|1001.85694080591
+8/20/2023 8:20:16 AM|playerStat|against|5|Tackle Assist||8/20/2023 8:20:16 AM|1002.4629996419
+8/20/2023 8:20:22 AM|playerStat|against|4|Turnover Made||8/20/2023 8:20:22 AM|1003.28576919436
+8/20/2023 8:20:26 AM|playerStat|against|5|Defender in Position||8/20/2023 8:20:26 AM|1003.8067279458
+8/20/2023 8:20:27 AM|playerStat|against|3|Defender in Position||8/20/2023 8:20:27 AM|1004.124786973
+8/20/2023 8:20:57 AM|playerStat|for|9|Good Pass||8/20/2023 8:20:57 AM|1049.33547627926
+8/20/2023 8:20:59 AM|playerStat|for|10|Good Pass||8/20/2023 8:20:59 AM|1050.44157427549
+8/20/2023 8:21:02 AM|playerStat|for|8|Good Pass||8/20/2023 8:21:02 AM|1051.46541562676
+8/20/2023 8:21:04 AM|playerStat|for|12|Good Pass||8/20/2023 8:21:04 AM|1052.36231771111
+8/20/2023 8:21:07 AM|playerStat|for|13|Avg Pass||8/20/2023 8:21:07 AM|1054.07020938396
+8/20/2023 8:21:10 AM|playerStat|for|15|Defender Beaten|1|8/20/2023 8:21:10 AM|1055.02804231644
+8/20/2023 8:21:15 AM|playerStat|for|15|Gainline unsuccessful|4|8/20/2023 8:21:15 AM|1056.88399595022
+8/20/2023 8:21:17 AM|playerStat|for|15|Good Offload||8/20/2023 8:21:17 AM|1057.63100814819
+8/20/2023 8:21:21 AM|playerStat|for|12|Good Pass||8/20/2023 8:21:21 AM|1058.78381979465
+8/20/2023 8:21:31 AM|playerStat|for|14|Defender Beaten|1|8/20/2023 8:21:31 AM|1060.92147704959
+8/20/2023 8:21:37 AM|playerStat|for|14|Carries in Open Play|15|8/20/2023 8:21:37 AM|1064.12319001555
+8/20/2023 8:21:46 AM|playerStat|for|13|Effective Ruck||8/20/2023 8:21:46 AM|1066.24480214715
+8/20/2023 8:21:48 AM|playerStat|for|12|Effective Ruck||8/20/2023 8:21:48 AM|1066.77571293712
+8/20/2023 8:21:52 AM|playerStat|for|9|Good Pass||8/20/2023 8:21:52 AM|1069.44956165552
+8/20/2023 8:22:00 AM|playerStat|for|1|Gainline Success|4|8/20/2023 8:22:00 AM|1071.88334283233
+8/20/2023 8:22:05 AM|playerStat|for|8|Effective Ruck||8/20/2023 8:22:05 AM|1072.81314757466
+8/20/2023 8:22:09 AM|playerStat|for|2|Effective Ruck||8/20/2023 8:22:09 AM|1073.25489622355
+8/20/2023 8:22:12 AM|playerStat|for|9|Good Pass||8/20/2023 8:22:12 AM|1074.97192752361
+8/20/2023 8:22:15 AM|playerStat|for|10|Good Pass||8/20/2023 8:22:15 AM|1076.18668553233
+8/20/2023 8:22:22 AM|playerStat|for|3|Gainline unsuccessful|4|8/20/2023 8:22:22 AM|1078.72161191702
+8/20/2023 8:22:24 AM|playerStat|for|4|Effective Ruck||8/20/2023 8:22:24 AM|1079.61445194483
+8/20/2023 8:22:25 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:22:25 AM|1080.28144162893
+8/20/2023 8:22:31 AM|playerStat|for|9|Avg Pass||8/20/2023 8:22:31 AM|1084.36908912659
+8/20/2023 8:22:36 AM|playerStat|for|13|Defender Beaten|90|8/20/2023 8:22:36 AM|1087.34190520644
+8/20/2023 8:22:37 AM|deletePlayerStat|for|13|Defender Beaten|1087.34
+8/20/2023 8:22:39 AM|playerStat|for|13|Defender Beaten|2|8/20/2023 8:22:39 AM|1087.84580332041
+8/20/2023 8:22:41 AM|deletePlayerStat|for|13|Defender Beaten|1087.85
+8/20/2023 8:22:43 AM|playerStat|for|13|Defender Beaten|3|8/20/2023 8:22:43 AM|1088.53086915612
+8/20/2023 8:22:51 AM|playerStat|for|13|Gainline Success|12|8/20/2023 8:22:51 AM|1089.26061761379
+8/20/2023 8:22:58 AM|playerStat|for|12|Effective Ruck||8/20/2023 8:22:58 AM|1090.13131943345
+8/20/2023 8:22:59 AM|playerStat|for|8|Effective Ruck||8/20/2023 8:22:59 AM|1090.44633191824
+8/20/2023 8:23:02 AM|playerStat|for|9|Good Pass||8/20/2023 8:23:02 AM|1092.00920817256
+8/20/2023 8:23:04 AM|playerStat|for|1|Good Pass||8/20/2023 8:23:04 AM|1093.01212993264
+8/20/2023 8:23:09 AM|playerStat|for|14|Good Pass||8/20/2023 8:23:09 AM|1093.78412377834
+8/20/2023 8:23:27 AM|playerStat|for|11|Avg Kick|12|8/20/2023 8:23:27 AM|1097.97352579236
+8/20/2023 8:23:29 AM|playerStat|for|11|Try Scored||8/20/2023 8:23:29 AM|1098.3984169066
+8/20/2023 8:23:50 AM|playerStat|for|11|Carries in Open Play|0|8/20/2023 8:23:50 AM|1098.2911786139
+8/20/2023 8:24:43 AM|playerStat|for|10|Kick at Goal Un Successful|2|8/20/2023 8:24:43 AM|1171.48801577091
+8/20/2023 8:25:01 AM|playerStat|for|6|Defender Beaten|1|8/20/2023 8:25:01 AM|1204.39575132728
+8/20/2023 8:25:05 AM|playerStat|for|6|Carries in Open Play|0|8/20/2023 8:25:05 AM|1205.23273807764
+8/20/2023 8:25:11 AM|playerStat|for|3|Effective Ruck||8/20/2023 8:25:11 AM|1206.14365425706
+8/20/2023 8:25:21 AM|playerStat|for|9|Good Pass||8/20/2023 8:25:21 AM|1210.82903337479
+8/20/2023 8:25:30 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:25:30 AM|1207.35495951772
+8/20/2023 8:25:45 AM|playerStat|for|10|Good Kick|38|8/20/2023 8:25:45 AM|1215.75955760479
+8/20/2023 8:25:55 AM|playerStat|against|14|Neutral Tackle|2|8/20/2023 8:25:55 AM|1221.11314502358
+8/20/2023 8:25:58 AM|playerStat|against|2|Effective Ruck||8/20/2023 8:25:58 AM|1222.04904285073
+8/20/2023 8:25:59 AM|playerStat|against|3|Effective Ruck||8/20/2023 8:25:59 AM|1222.44103130698
+8/20/2023 8:26:01 AM|playerStat|against|14|Defender in Position||8/20/2023 8:26:01 AM|1223.20591655374
+8/20/2023 8:26:23 AM|playerStat|against|1|Tackle Missed||8/20/2023 8:26:23 AM|1231.23294648528
+8/20/2023 8:26:27 AM|playerStat|against|5|Passive Tackle|3|8/20/2023 8:26:27 AM|1233.47763893008
+8/20/2023 8:26:31 AM|playerStat|against|7|Tackle Assist||8/20/2023 8:26:31 AM|1233.43762767315
+8/20/2023 8:26:34 AM|playerStat|against|7|Defender in Position||8/20/2023 8:26:34 AM|1235.44550222158
+8/20/2023 8:26:35 AM|playerStat|against|5|Defender in Position||8/20/2023 8:26:35 AM|1235.76843571663
+8/20/2023 8:26:46 AM|playerStat|against|10|Dominant Tackle|2|8/20/2023 8:26:46 AM|1239.859942168
+8/20/2023 8:26:50 AM|playerStat|against|10|Defender in Position||8/20/2023 8:26:50 AM|1241.50791850686
+8/20/2023 8:26:58 AM|playerStat|against|11|Neutral Tackle|2|8/20/2023 8:26:58 AM|1242.59167519212
+8/20/2023 8:27:02 AM|playerStat|against|11|Defender in Position||8/20/2023 8:27:02 AM|1244.84733518958
+8/20/2023 8:27:37 AM|deletePlayerStat|against|10|Dominant Tackle|1239.86
+8/20/2023 8:27:39 AM|playerStat|against|13|Dominant Tackle|2|8/20/2023 8:27:39 AM|1239.85303667188
+8/20/2023 8:27:41 AM|deletePlayerStat|against|10|Defender in Position|1241.51
+8/20/2023 8:27:47 AM|playerStat|against|13|Defender in Position||8/20/2023 8:27:47 AM|1241.86761361361
+8/20/2023 8:28:11 AM|playerStat|against|11|Penalty Conceded||8/20/2023 8:28:11 AM|1242.6410291791
+8/20/2023 8:30:04 AM|playerStat|against|7|Turnover Made||8/20/2023 8:30:04 AM|1493.35298684239
+8/20/2023 8:30:12 AM|playerStat|for|5|Gainline unsuccessful|0|8/20/2023 8:30:12 AM|1494.72677436471
+8/20/2023 8:30:18 AM|playerStat|for|1|Effective Ruck||8/20/2023 8:30:18 AM|1495.67770180106
+8/20/2023 8:30:19 AM|playerStat|for|6|Effective Ruck||8/20/2023 8:30:19 AM|1496.20556604862
+8/20/2023 8:30:23 AM|playerStat|for|9|Good Pass||8/20/2023 8:30:23 AM|1498.41654342413
+8/20/2023 8:30:28 AM|playerStat|for|8|Defender Beaten|1|8/20/2023 8:30:28 AM|1500.89236688614
+8/20/2023 8:30:34 AM|playerStat|for|8|Gainline Success|7|8/20/2023 8:30:34 AM|1501.44907173514
+8/20/2023 8:30:36 AM|playerStat|for|8|Good Offload||8/20/2023 8:30:36 AM|1502.37501752377
+8/20/2023 8:30:41 AM|playerStat|for|9|Carries in Open Play|0|8/20/2023 8:30:41 AM|1503.29405781627
+8/20/2023 8:30:43 AM|playerStat|for|8|Effective Ruck||8/20/2023 8:30:43 AM|1503.96896851063
+8/20/2023 8:30:44 AM|playerStat|for|12|Effective Ruck||8/20/2023 8:30:44 AM|1504.49886378646
+8/20/2023 8:30:47 AM|playerStat|for|10|Good Pass||8/20/2023 8:30:47 AM|1507.21170824766
+8/20/2023 8:30:53 AM|playerStat|for|3|Gainline unsuccessful|3|8/20/2023 8:30:53 AM|1508.90457031131
+8/20/2023 8:31:02 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:31:02 AM|1509.86443427205
+8/20/2023 8:31:07 AM|playerStat|for|7|Effective Ruck||8/20/2023 8:31:07 AM|1510.5722476244
+8/20/2023 8:31:09 AM|playerStat|for|13|Effective Ruck||8/20/2023 8:31:09 AM|1511.0621316433
+8/20/2023 8:31:12 AM|playerStat|for|9|Good Pass||8/20/2023 8:31:12 AM|1513.2071006
+8/20/2023 8:31:17 AM|playerStat|for|12|Good Pass||8/20/2023 8:31:17 AM|1514.33878955245
+8/20/2023 8:31:28 AM|playerStat|for|6|Gainline unsuccessful|4|8/20/2023 8:31:28 AM|1517.38248851895
+8/20/2023 8:31:43 AM|playerStat|for|2|Effective Ruck||8/20/2023 8:31:43 AM|1519.09911361337
+8/20/2023 8:31:47 AM|playerStat|for|9|Good Pass||8/20/2023 8:31:47 AM|1521.37691181898
+8/20/2023 8:31:54 AM|playerStat|for|5|Gainline Success|4|8/20/2023 8:31:54 AM|1523.44774824381
+8/20/2023 8:31:56 AM|playerStat|for|7|Effective Ruck||8/20/2023 8:31:56 AM|1524.49271228909
+8/20/2023 8:32:01 AM|deletePlayerStat|for|7|Effective Ruck|1524.49
+8/20/2023 8:32:11 AM|deletePlayerStat|for|5|Gainline Success|1523.45
+8/20/2023 8:32:17 AM|playerStat|for|7|Gainline Success|4|8/20/2023 8:32:17 AM|1523.44734203815
+8/20/2023 8:32:19 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:32:19 AM|1524.71023541689
+8/20/2023 8:32:25 AM|playerStat|for|4|Effective Ruck||8/20/2023 8:32:25 AM|1525.77429112792
+8/20/2023 8:32:27 AM|playerStat|for|9|Good Pass||8/20/2023 8:32:27 AM|1527.40601924062
+8/20/2023 8:32:29 AM|playerStat|for|12|Good Pass||8/20/2023 8:32:29 AM|1528.62301138043
+8/20/2023 8:32:35 AM|playerStat|for|14|Gainline Success|6|8/20/2023 8:32:35 AM|1530.81083503366
+8/20/2023 8:32:44 AM|playerStat|for|14|Good Offload||8/20/2023 8:32:44 AM|1534.04646617174
+8/20/2023 8:32:51 AM|playerStat|for|15|Defender Beaten|2|8/20/2023 8:32:51 AM|1537.05035698414
+8/20/2023 8:32:58 AM|playerStat|for|15|Carries in Open Play|5|8/20/2023 8:32:58 AM|1537.85830003023
+8/20/2023 8:33:06 AM|playerStat|for|2|Effective Ruck||8/20/2023 8:33:06 AM|1538.51086941361
+8/20/2023 8:33:07 AM|playerStat|for|1|Effective Ruck||8/20/2023 8:33:07 AM|1538.92987054586
+8/20/2023 8:33:09 AM|playerStat|for|3|Effective Ruck||8/20/2023 8:33:09 AM|1539.93583884835
+8/20/2023 8:33:13 AM|playerStat|for|9|Good Pass||8/20/2023 8:33:13 AM|1543.28947272897
+8/20/2023 8:33:25 AM|playerStat|for|10|Avg Kick|13|8/20/2023 8:33:25 AM|1547.61515673995
+8/20/2023 8:33:39 AM|playerStat|against|11|Neutral Tackle|2|8/20/2023 8:33:39 AM|1553.8416801095
+8/20/2023 8:33:44 AM|playerStat|against|13|Tackle Assist||8/20/2023 8:33:44 AM|1553.81669846177
+8/20/2023 8:33:47 AM|playerStat|against|13|Defender in Position||8/20/2023 8:33:47 AM|1554.97458767891
+8/20/2023 8:33:49 AM|playerStat|against|11|Turnover Made||8/20/2023 8:33:49 AM|1555.53758871555
+8/20/2023 8:34:18 AM|playerStat|for|2|Ball Lost||8/20/2023 8:34:18 AM|1593.72234192491
+8/20/2023 8:34:25 AM|playerStat|against|6|Passive Tackle|2|8/20/2023 8:34:25 AM|1595.33700940013
+8/20/2023 8:34:29 AM|playerStat|against|6|Defender in Position||8/20/2023 8:34:28 AM|1596.66184914112
+8/20/2023 8:34:32 AM|playerStat|against|8|Effective Ruck||8/20/2023 8:34:32 AM|1596.51297476888
+8/20/2023 8:34:43 AM|playerStat|against|13|Tackle Missed||8/20/2023 8:34:43 AM|1603.4444680512
+8/20/2023 8:34:57 AM|playerStat|against|5|Passive Tackle|2|8/20/2023 8:34:57 AM|1604.57107943296
+8/20/2023 8:35:04 AM|playerStat|against|14|Tackle Assist||8/20/2023 8:35:04 AM|1604.71975070238
+8/20/2023 8:35:06 AM|playerStat|against|14|Defender in Position||8/20/2023 8:35:06 AM|1605.52058514953
+8/20/2023 8:35:07 AM|playerStat|against|5|Defender in Position||8/20/2023 8:35:07 AM|1605.72571900487
+8/20/2023 8:35:46 AM|playerStat|against|12|Neutral Tackle|3|8/20/2023 8:35:46 AM|1610.1222859025
+8/20/2023 8:35:49 AM|playerStat|against|12|Defender in Position||8/20/2023 8:35:49 AM|1612.20226195455
+8/20/2023 8:36:12 AM|playerStat|for|9|Good Pass||8/20/2023 8:36:12 AM|1648.58468067646
+8/20/2023 8:36:15 AM|playerStat|for|12|Defender Beaten|1|8/20/2023 8:36:15 AM|1650.11851322651
+8/20/2023 8:36:21 AM|playerStat|for|12|Gainline unsuccessful|3|8/20/2023 8:36:20 AM|1651.67956155539
+8/20/2023 8:36:27 AM|playerStat|for|8|Effective Ruck||8/20/2023 8:36:27 AM|1652.72635352612
+8/20/2023 8:36:29 AM|playerStat|for|13|Effective Ruck||8/20/2023 8:36:29 AM|1653.07833072543
+8/20/2023 8:36:33 AM|playerStat|for|9|Good Pass||8/20/2023 8:36:33 AM|1656.43277701735
+8/20/2023 8:36:52 AM|playerStat|for|10|Good Kick|37|8/20/2023 8:36:52 AM|1661.96143907309
+8/20/2023 8:37:06 AM|deletePlayerStat|for|10|Good Kick|1661.96
+8/20/2023 8:37:09 AM|playerStat|for|10|Good Kick|41|8/20/2023 8:37:09 AM|1662.38592398167
+8/20/2023 8:37:30 AM|playerStat|against|10|Tackle Missed||8/20/2023 8:37:30 AM|1691.84416112304
+8/20/2023 8:37:43 AM|playerStat|against|8|Neutral Tackle|2|8/20/2023 8:37:43 AM|1693.51894703507
+8/20/2023 8:37:46 AM|playerStat|against|2|Tackle Assist||8/20/2023 8:37:46 AM|1692.83388119936
+8/20/2023 8:37:48 AM|playerStat|against|8|Effective Ruck||8/20/2023 8:37:48 AM|1694.21071526408
+8/20/2023 8:37:52 AM|playerStat|against|2|Defender in Position||8/20/2023 8:37:52 AM|1697.09051024914
+8/20/2023 8:37:54 AM|playerStat|against|8|Defender in Position||8/20/2023 8:37:54 AM|1698.13344326615
+8/20/2023 8:38:04 AM|playerStat|against|9|Tackle Missed||8/20/2023 8:38:04 AM|1702.85010021925
+8/20/2023 8:38:12 AM|playerStat|against|13|Dominant Tackle|2|8/20/2023 8:38:12 AM|1703.93791896105
+8/20/2023 8:38:16 AM|playerStat|against|3|Tackle Assist||8/20/2023 8:38:16 AM|1703.91192179918
+8/20/2023 8:38:17 AM|playerStat|against|3|Effective Ruck||8/20/2023 8:38:17 AM|1704.80983939767
+8/20/2023 8:38:19 AM|playerStat|against|13|Defender in Position||8/20/2023 8:38:19 AM|1705.59564423561
+8/20/2023 8:38:39 AM|playerStat|against|3|Defender in Position||8/20/2023 8:38:39 AM|1706.08573135734
+8/20/2023 8:38:48 AM|playerStat|against|5|Dominant Tackle|2|8/20/2023 8:38:48 AM|1712.39248034358
+8/20/2023 8:38:52 AM|playerStat|against|5|Defender in Position||8/20/2023 8:38:52 AM|1714.31342688203
+8/20/2023 8:39:09 AM|deletePlayerStat|against|5|Defender in Position|1714.31
+8/20/2023 8:39:21 AM|playerStat|against|4|Dominant Tackle|2|8/20/2023 8:39:21 AM|1712.08660748601
+8/20/2023 8:39:23 AM|deletePlayerStat|against|5|Dominant Tackle|1712.39
+8/20/2023 8:39:27 AM|playerStat|against|4|Defender in Position||8/20/2023 8:39:27 AM|1714.16150596738
+8/20/2023 8:39:35 AM|playerStat|against|11|Kick Fielded Successfully||8/20/2023 8:39:35 AM|1718.6082392633
+8/20/2023 8:39:58 AM|playerStat|for|8|Penalty Conceded||8/20/2023 8:39:58 AM|1695.16773578525
+8/20/2023 8:40:02 AM|deletePlayerStat|for|8|Penalty Conceded|1695.17
+8/20/2023 8:40:02 AM|playerStat|against|8|Penalty Conceded||8/20/2023 8:40:02 AM|1695.68260145187
+8/20/2023 8:40:34 AM|playerStat|against|15|Kick Fielded Successfully||8/20/2023 8:40:34 AM|1812.04528865218
+8/20/2023 8:40:43 AM|playerStat|for|3|Effective Ruck||8/20/2023 8:40:43 AM|1812.88085368276
+8/20/2023 8:40:48 AM|playerStat|for|9|Good Pass||8/20/2023 8:40:48 AM|1816.03564989567
+8/20/2023 8:41:05 AM|playerStat|for|11|Good Kick|48|8/20/2023 8:41:05 AM|1821.46925982833
+8/20/2023 8:41:24 AM|playerStat|against|11|Neutral Tackle|3|8/20/2023 8:41:24 AM|1826.78567942977
+8/20/2023 8:41:27 AM|playerStat|against|11|Turnover Made||8/20/2023 8:41:27 AM|1828.38450488448
+8/20/2023 8:42:03 AM|playerStat|for|9|Good Pass||8/20/2023 8:42:03 AM|1875.38290527463
+8/20/2023 8:42:05 AM|playerStat|for|10|Good Pass||8/20/2023 8:42:05 AM|1876.55866754055
+8/20/2023 8:42:07 AM|playerStat|for|8|Good Pass||8/20/2023 8:42:07 AM|1877.38570225239
+8/20/2023 8:42:10 AM|playerStat|for|11|Good Pass||8/20/2023 8:42:10 AM|1879.38951474428
+8/20/2023 8:42:25 AM|playerStat|for|14|Avg Kick|32|8/20/2023 8:42:25 AM|1884.26113915443
+8/20/2023 8:42:35 AM|playerStat|against|14|Neutral Tackle|20|8/20/2023 8:42:35 AM|1887.42669981718
+8/20/2023 8:42:39 AM|deletePlayerStat|against|14|Neutral Tackle|1887.43
+8/20/2023 8:42:40 AM|playerStat|against|14|Neutral Tackle|2|8/20/2023 8:42:40 AM|1887.57882383466
+8/20/2023 8:42:44 AM|playerStat|against|14|Defender in Position||8/20/2023 8:42:44 AM|1889.39456310868
+8/20/2023 8:43:07 AM|playerStat|for|9|Good Pass||8/20/2023 8:43:07 AM|1935.49443659186
+8/20/2023 8:43:09 AM|playerStat|for|10|Good Pass||8/20/2023 8:43:09 AM|1936.38646420836
+8/20/2023 8:43:27 AM|playerStat|for|12|Defender Beaten|1|8/20/2023 8:43:27 AM|1938.91184476018
+8/20/2023 8:43:31 AM|playerStat|for|12|Gainline Success|8|8/20/2023 8:43:31 AM|1940.1806281209
+8/20/2023 8:43:36 AM|playerStat|for|14|Ineffective Ruck||8/20/2023 8:43:36 AM|1940.94246682525
+8/20/2023 8:43:41 AM|playerStat|for|13|Effective Ruck||8/20/2023 8:43:41 AM|1941.77539151907
+8/20/2023 8:43:46 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:43:46 AM|1941.9594026804
+8/20/2023 8:43:49 AM|playerStat|for|9|Good Pass||8/20/2023 8:43:49 AM|1944.55505681038
+8/20/2023 8:43:52 AM|playerStat|for|1|Avg Pass||8/20/2023 8:43:52 AM|1945.29699143767
+8/20/2023 8:43:53 AM|playerStat|for|3|Ball Lost||8/20/2023 8:43:53 AM|1946.26193296909
+8/20/2023 8:44:36 AM|playerStat|against|15|Kick Fielded Successfully||8/20/2023 8:44:36 AM|1991.46632608771
+8/20/2023 8:44:45 AM|playerStat|for|15|Good Kick|44|8/20/2023 8:44:45 AM|1996.25691246986
+8/20/2023 8:44:48 AM|deletePlayerStat|for|15|Good Kick|1996.26
+8/20/2023 8:44:50 AM|playerStat|for|15|Good Kick|45|8/20/2023 8:44:50 AM|1996.33287292719
+8/20/2023 8:45:04 AM|playerStat|against|15|Neutral Tackle|3|8/20/2023 8:45:04 AM|2001.46365654469
+8/20/2023 8:45:08 AM|playerStat|against|6|Tackle Assist||8/20/2023 8:45:08 AM|2001.66249421239
+8/20/2023 8:45:10 AM|playerStat|against|6|Effective Ruck||8/20/2023 8:45:10 AM|2002.7054272294
+8/20/2023 8:45:14 AM|playerStat|against|15|Defender in Position||8/20/2023 8:45:14 AM|2004.16228380799
+8/20/2023 8:45:28 AM|playerStat|against|1|Tackle Missed||8/20/2023 8:45:28 AM|2013.57549053431
+8/20/2023 8:45:35 AM|playerStat|against|6|Defender in Position||8/20/2023 8:45:35 AM|2014.69743055105
+8/20/2023 8:45:43 AM|playerStat|against|3|Dominant Tackle|2|8/20/2023 8:45:43 AM|2017.41311845183
+8/20/2023 8:45:47 AM|playerStat|against|5|Tackle Assist||8/20/2023 8:45:47 AM|2017.17508193851
+8/20/2023 8:46:08 AM|playerStat|against|7|Dominant Tackle|2|8/20/2023 8:46:08 AM|2023.94185882807
+8/20/2023 8:46:11 AM|playerStat|against|5|Defender in Position||8/20/2023 8:46:11 AM|2024.60966092348
+8/20/2023 8:46:13 AM|playerStat|against|3|Defender in Position||8/20/2023 8:46:13 AM|2025.6166447401
+8/20/2023 8:46:14 AM|playerStat|against|7|Defender in Position||8/20/2023 8:46:14 AM|2026.00863319635
+8/20/2023 8:46:21 AM|playerStat|against|3|Passive Tackle|2|8/20/2023 8:46:21 AM|2029.29239970446
+8/20/2023 8:46:24 AM|playerStat|against|4|Effective Ruck||8/20/2023 8:46:24 AM|2030.73442977667
+8/20/2023 8:46:27 AM|playerStat|against|3|Defender in Position||8/20/2023 8:46:27 AM|2031.89820897579
+8/20/2023 8:46:42 AM|playerStat|against|6|Dominant Tackle|2|8/20/2023 8:46:42 AM|2039.33664691448
+8/20/2023 8:46:44 AM|playerStat|against|13|Tackle Assist||8/20/2023 8:46:44 AM|2040.10153216124
+8/20/2023 8:46:48 AM|playerStat|against|6|Defender in Position||8/20/2023 8:46:48 AM|2042.21623879671
+8/20/2023 8:46:52 AM|playerStat|against|12|Effective Ruck||8/20/2023 8:46:52 AM|2041.01874452829
+8/20/2023 8:47:01 AM|playerStat|against|13|Defender in Position||8/20/2023 8:47:01 AM|2048.25936031342
+8/20/2023 8:47:08 AM|playerStat|against|4|Dominant Tackle|2|8/20/2023 8:47:08 AM|2048.25448584557
+8/20/2023 8:47:11 AM|playerStat|against|6|Effective Ruck||8/20/2023 8:47:11 AM|2049.3260563612
+8/20/2023 8:47:13 AM|playerStat|against|4|Defender in Position||8/20/2023 8:47:13 AM|2050.70309352875
+8/20/2023 8:47:38 AM|deletePlayerStat|against|6|Effective Ruck|2049.33
+8/20/2023 8:47:40 AM|playerStat|against|1|Effective Ruck||8/20/2023 8:47:40 AM|2050.25545489788
+8/20/2023 8:47:48 AM|playerStat|against|7|Dominant Tackle|2|8/20/2023 8:47:48 AM|2061.82175469399
+8/20/2023 8:47:54 AM|playerStat|against|2|Effective Ruck||8/20/2023 8:47:54 AM|2064.06035405397
+8/20/2023 8:47:56 AM|playerStat|against|7|Defender in Position||8/20/2023 8:47:56 AM|2064.61441856623
+8/20/2023 8:48:02 AM|playerStat|against|7|Intercept||8/20/2023 8:48:02 AM|2066.49515074492
+8/20/2023 8:48:07 AM|playerStat|for|7|Carries in Open Play|2|8/20/2023 8:48:07 AM|2068.68216198683
+8/20/2023 8:48:08 AM|playerStat|for|3|Effective Ruck||8/20/2023 8:48:08 AM|2069.45476514101
+8/20/2023 8:48:13 AM|playerStat|for|4|Effective Ruck||8/20/2023 8:48:13 AM|2070.33054453135
+8/20/2023 8:48:44 AM|playerStat|for|9|Good Kick|38|8/20/2023 8:48:44 AM|2078.64354324341
+8/20/2023 8:49:04 AM|playerStat|for|7|Ball Lost||8/20/2023 8:49:04 AM|2111.8996001482
+8/20/2023 8:49:11 AM|playerStat|against|4|Neutral Tackle|2|8/20/2023 8:49:11 AM|2112.2672162652
+8/20/2023 8:49:12 AM|playerStat|against|4|Penalty Conceded||8/20/2023 8:49:12 AM|2112.81031322479
+8/20/2023 8:49:14 AM|playerStat|against|4|Defender in Position||8/20/2023 8:49:14 AM|2113.78398817778
+8/20/2023 8:49:18 AM|playerStat|against|7|Effective Ruck||8/20/2023 8:49:18 AM|2114.2815901041
+8/20/2023 8:49:36 AM|playerStat|against|13|Dominant Tackle|2|8/20/2023 8:49:36 AM|2122.40448457003
+8/20/2023 8:49:42 AM|deletePlayerStat|against|13|Dominant Tackle|2122.4
+8/20/2023 8:49:49 AM|playerStat|against|10|Dominant Tackle|2|8/20/2023 8:49:49 AM|2122.20463138819
+8/20/2023 8:49:51 AM|playerStat|against|12|Effective Ruck||8/20/2023 8:49:51 AM|2123.12468719482
+8/20/2023 8:49:56 AM|playerStat|against|10|Defender in Position||8/20/2023 8:49:56 AM|2127.56654602289
+8/20/2023 8:50:13 AM|playerStat|against|4|Yellow Card||8/20/2023 8:50:13 AM|2149.40863025188
+8/20/2023 8:50:51 AM|playerStat|against|12|Passive Tackle|2|8/20/2023 8:50:51 AM|2199.83784359694
+8/20/2023 8:50:57 AM|playerStat|against|12|Defender in Position||8/20/2023 8:50:57 AM|2202.41115641594
+8/20/2023 8:51:04 AM|playerStat|against|12|Passive Tackle|2|8/20/2023 8:51:04 AM|2204.37069249153
+8/20/2023 8:51:07 AM|playerStat|against|8|Effective Ruck||8/20/2023 8:51:07 AM|2206.40415799618
+8/20/2023 8:51:10 AM|playerStat|against|12|Defender in Position||8/20/2023 8:51:10 AM|2208.15734159946
+8/20/2023 8:51:20 AM|playerStat|against|8|Penalty Conceded||8/20/2023 8:51:20 AM|2207.51797389984
+8/20/2023 8:52:14 AM|playerStat|for|12|Effective Ruck||8/20/2023 8:52:14 AM|2291.4556504488
+8/20/2023 8:52:20 AM|playerStat|for|9|Good Pass||8/20/2023 8:52:20 AM|2295.17243218422
+8/20/2023 8:52:35 AM|playerStat|for|10|Avg Kick|35|8/20/2023 8:52:35 AM|2299.69431352615
+8/20/2023 8:54:26 AM|playerStat|against|5|Kick Fielded Successfully||8/20/2023 8:54:26 AM|2309.61548042297
+8/20/2023 8:54:33 AM|playerStat|for|6|Effective Ruck||8/20/2023 8:54:33 AM|2311.65788245201
+8/20/2023 8:54:37 AM|playerStat|for|9|Good Pass||8/20/2023 8:54:37 AM|2314.75479435921
+8/20/2023 8:54:49 AM|playerStat|for|10|Bad Kick|32|8/20/2023 8:54:49 AM|2319.68247514963
+8/20/2023 8:54:52 AM|playerStat|for|10|Ball Lost||8/20/2023 8:54:52 AM|2321.35035556555
+8/20/2023 8:55:41 AM|playerStat|against|6|Turnover Made||8/20/2023 8:55:41 AM|2373.24434649944
+8/20/2023 8:56:09 AM|playerStat|for|9|Good Pass||8/20/2023 8:56:09 AM|2460.366522789
+8/20/2023 8:56:14 AM|playerStat|for|12|Defender Beaten|1|8/20/2023 8:56:14 AM|2462.58724910021
+8/20/2023 8:56:19 AM|playerStat|for|12|Gainline Success|14|8/20/2023 8:56:19 AM|2465.38884949684
+8/20/2023 8:56:26 AM|playerStat|for|6|Effective Ruck||8/20/2023 8:56:26 AM|2465.7471228838
+8/20/2023 8:56:28 AM|playerStat|for|13|Effective Ruck||8/20/2023 8:56:28 AM|2466.58309412003
+8/20/2023 8:56:32 AM|playerStat|for|9|Good Pass||8/20/2023 8:56:32 AM|2468.87693744898
+8/20/2023 8:56:37 AM|playerStat|for|1|Gainline Success|6|8/20/2023 8:56:37 AM|2471.67488199472
+8/20/2023 8:56:39 AM|playerStat|for|3|Effective Ruck||8/20/2023 8:56:39 AM|2472.74685871601
+8/20/2023 8:56:44 AM|playerStat|for|7|Effective Ruck||8/20/2023 8:56:44 AM|2474.18767017126
+8/20/2023 8:56:46 AM|playerStat|for|9|Good Pass||8/20/2023 8:56:46 AM|2475.83361548185
+8/20/2023 8:56:57 AM|playerStat|for|8|Gainline Success|4|8/20/2023 8:56:57 AM|2477.81589907408
+8/20/2023 8:57:03 AM|playerStat|for|2|Effective Ruck||8/20/2023 8:57:03 AM|2479.28230148554
+8/20/2023 8:57:08 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:57:08 AM|2480.15320640802
+8/20/2023 8:57:23 AM|playerStat|for|9|Avg Kick|18|8/20/2023 8:57:23 AM|2489.79937207699
+8/20/2023 8:57:29 AM|playerStat|against|11|Neutral Tackle|2|8/20/2023 8:57:29 AM|2491.47659522295
+8/20/2023 8:57:31 AM|playerStat|against|11|Defender in Position||8/20/2023 8:57:31 AM|2492.67246466875
+8/20/2023 8:57:42 AM|playerStat|against|13|Dominant Tackle|2|8/20/2023 8:57:42 AM|2497.52052915096
+8/20/2023 8:57:44 AM|playerStat|against|13|Defender in Position||8/20/2023 8:57:44 AM|2498.56163424253
+8/20/2023 8:57:52 AM|playerStat|against|6|Neutral Tackle|2|8/20/2023 8:57:52 AM|2500.11293363571
+8/20/2023 8:57:57 AM|playerStat|against|9|Effective Ruck||8/20/2023 8:57:57 AM|2501.52003002167
+8/20/2023 8:57:58 AM|playerStat|against|6|Defender in Position||8/20/2023 8:57:58 AM|2501.79381263256
+8/20/2023 8:58:07 AM|playerStat|against|14|Tackle Missed||8/20/2023 8:58:07 AM|2508.36256426573
+8/20/2023 8:58:13 AM|deletePlayerStat|against|14|Tackle Missed|2508.36
+8/20/2023 8:58:17 AM|playerStat|against|14|Passive Tackle|3|8/20/2023 8:58:17 AM|2507.98682403564
+8/20/2023 8:58:19 AM|playerStat|against|14|Turnover Made||8/20/2023 8:58:19 AM|2509.43697822094
+8/20/2023 8:58:48 AM|playerStat|for|1|Gainline Success|8|8/20/2023 8:58:48 AM|2559.31131464243
+8/20/2023 8:58:56 AM|playerStat|for|5|Effective Ruck||8/20/2023 8:58:56 AM|2560.37110519409
+8/20/2023 8:59:00 AM|playerStat|for|6|Effective Ruck||8/20/2023 8:59:00 AM|2560.70988070965
+8/20/2023 8:59:04 AM|playerStat|for|1|Penalty Conceded||8/20/2023 8:59:04 AM|2563.66583925486
+8/20/2023 8:59:25 AM|playerStat|against|14|Kick Fielded Successfully||8/20/2023 8:59:25 AM|2587.43577551842
+8/20/2023 8:59:41 AM|playerStat|for|14|Avg Kick|25|8/20/2023 8:59:41 AM|2594.54599928856
+8/20/2023 9:00:00 AM|playerStat|against|10|Tackle Missed||8/20/2023 9:00:00 AM|2627.75859218836
+8/20/2023 9:00:17 AM|playerStat|against|2|Passive Tackle|2|8/20/2023 9:00:17 AM|2628.27162992954
+8/20/2023 9:00:20 AM|playerStat|against|2|Defender in Position||8/20/2023 9:00:20 AM|2629.09257155657
+8/20/2023 9:00:26 AM|playerStat|against|7|Neutral Tackle|2|8/20/2023 9:00:26 AM|2630.08249473572
+8/20/2023 9:00:31 AM|playerStat|against|7|Defender in Position||8/20/2023 9:00:31 AM|2630.34693461657
+8/20/2023 9:00:35 AM|playerStat|against|12|Neutral Tackle|2|8/20/2023 9:00:35 AM|2631.94779109955
+8/20/2023 9:00:37 AM|playerStat|against|12|Defender in Position||8/20/2023 9:00:37 AM|2632.52988380194
+8/20/2023 9:00:40 AM|playerStat|against|13|Neutral Tackle|2|8/20/2023 9:00:40 AM|2633.18103146553
+8/20/2023 9:00:42 AM|playerStat|against|13|Defender in Position||8/20/2023 9:00:42 AM|2634.66490072012
+8/20/2023 9:00:52 AM|playerStat|against|3|Passive Tackle|2|8/20/2023 9:00:52 AM|2637.50549685955
+8/20/2023 9:00:57 AM|playerStat|against|8|Tackle Assist||8/20/2023 9:00:57 AM|2637.45797079802
+8/20/2023 9:00:59 AM|playerStat|against|8|Effective Ruck||8/20/2023 9:00:59 AM|2638.68064981699
+8/20/2023 9:01:12 AM|playerStat|against|3|Defender in Position||8/20/2023 9:01:12 AM|2646.42496061325
+8/20/2023 9:01:36 AM|playerStat|against|8|Defender in Position||8/20/2023 9:01:36 AM|2646.02362942696
+8/20/2023 9:01:59 AM|playerStat|for|2|Penalty Conceded||8/20/2023 9:01:59 AM|2710.17650079727
+8/20/2023 9:02:43 AM|playerStat|against|10|Passive Tackle|2|8/20/2023 9:02:43 AM|2776.25641179085
+8/20/2023 9:02:49 AM|playerStat|against|6|Ineffective Ruck||8/20/2023 9:02:49 AM|2777.3791642189
+8/20/2023 9:02:55 AM|playerStat|against|12|Passive Tackle|2|8/20/2023 9:02:55 AM|2780.23885202408
+8/20/2023 9:02:56 AM|playerStat|against|10|Defender in Position||8/20/2023 9:02:56 AM|2780.57803374529
+8/20/2023 9:03:00 AM|playerStat|against|8|Effective Ruck||8/20/2023 9:03:00 AM|2781.15443956852
+8/20/2023 9:03:02 AM|playerStat|against|12|Defender in Position||8/20/2023 9:03:02 AM|2782.48435688019
+8/20/2023 9:03:12 AM|playerStat|against|12|Neutral Tackle|2|8/20/2023 9:03:12 AM|2788.34306102991
+8/20/2023 9:03:15 AM|playerStat|against|12|Defender in Position||8/20/2023 9:03:15 AM|2790.81157279015
+8/20/2023 9:03:24 AM|playerStat|against|7|Neutral Tackle|2|8/20/2023 9:03:24 AM|2793.41250759363
+8/20/2023 9:03:26 AM|playerStat|against|7|Defender in Position||8/20/2023 9:03:26 AM|2794.68433749676
+8/20/2023 9:03:35 AM|playerStat|against|1|Tackle Missed||8/20/2023 9:03:35 AM|2800.17664414644
+8/20/2023 9:03:45 AM|playerStat|against|2|Neutral Tackle|2|8/20/2023 9:03:45 AM|2801.80065435171
+8/20/2023 9:03:50 AM|playerStat|against|2|Defender in Position||8/20/2023 9:03:50 AM|2804.97230809927
+8/20/2023 9:03:55 AM|playerStat|against|3|Neutral Tackle|2|8/20/2023 9:03:55 AM|2807.28524309397
+8/20/2023 9:04:06 AM|playerStat|against|13|Tackle Assist||8/20/2023 9:04:06 AM|2807.88480263948
+8/20/2023 9:04:09 AM|playerStat|against|13|Defender in Position||8/20/2023 9:04:09 AM|2810.33787858486
+8/20/2023 9:04:11 AM|playerStat|against|3|Defender in Position||8/20/2023 9:04:11 AM|2811.72060263157
+8/20/2023 9:04:17 AM|playerStat|against|3|Passive Tackle|2|8/20/2023 9:04:17 AM|2815.43941539526
+8/20/2023 9:04:32 AM|playerStat|against|6|Tackle Assist||8/20/2023 9:04:32 AM|2815.21153402328
+8/20/2023 9:04:38 AM|playerStat|against|3|Defender in Position||8/20/2023 9:04:38 AM|2816.97446656227
+8/20/2023 9:04:46 AM|deletePlayerStat|against|6|Tackle Assist|2815.21
+8/20/2023 9:04:46 AM|playerStat|against|4|Tackle Assist||8/20/2023 9:04:46 AM|2815.22087675333
+8/20/2023 9:04:51 AM|playerStat|against|4|Defender in Position||8/20/2023 9:04:51 AM|2818.2515771389
+8/20/2023 9:05:07 AM|playerStat|against|12|Intercept||8/20/2023 9:05:07 AM|2826.97362494469
+8/20/2023 9:05:12 AM|playerStat|for|12|Carries in Open Play|5|8/20/2023 9:05:12 AM|2829.01115250587
+8/20/2023 9:05:19 AM|playerStat|for|6|Effective Ruck||8/20/2023 9:05:19 AM|2831.58365291357
+8/20/2023 9:05:20 AM|playerStat|for|11|Effective Ruck||8/20/2023 9:05:20 AM|2832.27867078781
+8/20/2023 9:05:44 AM|playerStat|for|9|Avg Pass||8/20/2023 9:05:44 AM|2872.57833373547
+8/20/2023 9:05:48 AM|playerStat|for|12|Defender Beaten|1|8/20/2023 9:05:48 AM|2874.31120705605
+8/20/2023 9:05:50 AM|playerStat|for|12|Gainline Success|10|8/20/2023 9:05:50 AM|2874.9582926631
+8/20/2023 9:05:56 AM|playerStat|for|6|Effective Ruck||8/20/2023 9:05:56 AM|2876.05098587275
+8/20/2023 9:06:00 AM|playerStat|for|13|Effective Ruck||8/20/2023 9:06:00 AM|2876.87680196762
+8/20/2023 9:06:05 AM|playerStat|for|8|Effective Ruck||8/20/2023 9:06:05 AM|2879.40258872509
+8/20/2023 9:06:06 AM|playerStat|for|9|Good Pass||8/20/2023 9:06:06 AM|2880.57042998075
+8/20/2023 9:06:18 AM|playerStat|for|10|Avg Kick|30|8/20/2023 9:06:18 AM|2885.64718824625
+8/20/2023 9:06:24 AM|playerStat|for|13|Tackle Missed||8/20/2023 9:06:24 AM|2888.32083386183
+8/20/2023 9:06:35 AM|playerStat|against|4|Tackle Missed||8/20/2023 9:06:35 AM|2889.91519105434
+8/20/2023 9:06:39 AM|playerStat|against|2|Neutral Tackle|2|8/20/2023 9:06:39 AM|2889.79089212418
+8/20/2023 9:06:42 AM|playerStat|against|2|Ineffective Ruck||8/20/2023 9:06:42 AM|2891.14193212986
+8/20/2023 9:06:50 AM|playerStat|against|2|Defender in Position||8/20/2023 9:06:50 AM|2897.37028342485
+8/20/2023 9:07:00 AM|playerStat|against|12|Dominant Tackle|2|8/20/2023 9:07:00 AM|2897.9235355258
+8/20/2023 9:07:04 AM|playerStat|against|6|Tackle Assist||8/20/2023 9:07:04 AM|2897.84107577801
+8/20/2023 9:07:07 AM|playerStat|against|6|Defender in Position||8/20/2023 9:07:07 AM|2900.80597084761
+8/20/2023 9:07:11 AM|playerStat|against|12|Defender in Position||8/20/2023 9:07:11 AM|2903.53486043215
+8/20/2023 9:07:26 AM|playerStat|against|15|Ball Lost||8/20/2023 9:07:26 AM|2905.00451248884
+8/20/2023 9:08:02 AM|playerStat|against|11|Dominant Tackle|2|8/20/2023 9:08:02 AM|2961.06617343426
+8/20/2023 9:08:03 AM|playerStat|against|11|Defender in Position||8/20/2023 9:08:03 AM|2962.06828278303
+8/20/2023 9:08:12 AM|playerStat|against|11|Neutral Tackle|2|8/20/2023 9:08:12 AM|2965.95079642534
+8/20/2023 9:08:21 AM|playerStat|against|12|Effective Ruck||8/20/2023 9:08:21 AM|2968.90513014793
+8/20/2023 9:08:22 AM|playerStat|against|11|Defender in Position||8/20/2023 9:08:22 AM|2970.02910119295
+8/20/2023 9:08:37 AM|playerStat|against|13|Kick Fielded Unsuccessfully||8/20/2023 9:08:37 AM|2976.79811221361
+8/20/2023 9:08:44 AM|playerStat|against|10|Effective Ruck||8/20/2023 9:08:44 AM|2979.72969841957
+8/20/2023 9:08:45 AM|playerStat|against|13|Effective Ruck||8/20/2023 9:08:45 AM|2980.08594077826
+8/20/2023 9:09:08 AM|playerStat|for|12|Carries in Open Play|4|8/20/2023 9:09:08 AM|3011.55184936523
+8/20/2023 9:09:10 AM|deletePlayerStat|for|12|Carries in Open Play|3011.55
+8/20/2023 9:09:13 AM|playerStat|for|12|Carries in Open Play|5|8/20/2023 9:09:13 AM|3011.43242490292
+8/20/2023 9:09:15 AM|playerStat|for|14|Effective Ruck||8/20/2023 9:09:15 AM|3012.32404631376
+8/20/2023 9:09:18 AM|playerStat|for|13|Effective Ruck||8/20/2023 9:09:18 AM|3012.52024364471
+8/20/2023 9:09:22 AM|playerStat|for|9|Good Pass||8/20/2023 9:09:22 AM|3015.19795131683
+8/20/2023 9:10:00 AM|playerStat|for|3|Gainline Success|2|8/20/2023 9:10:00 AM|3031.78942126036
+8/20/2023 9:10:08 AM|playerStat|for|2|Effective Ruck||8/20/2023 9:10:08 AM|3031.23779398203
+8/20/2023 9:10:10 AM|playerStat|for|13|Effective Ruck||8/20/2023 9:10:10 AM|3032.16069322824
+8/20/2023 9:10:17 AM|playerStat|for|4|Gainline unsuccessful|1|8/20/2023 9:10:17 AM|3023.12139880657
+8/20/2023 9:10:32 AM|playerStat|for|1|Gainline Success|2|8/20/2023 9:10:32 AM|3041.1593670845
+8/20/2023 9:11:04 AM|playerStat|for|9|Good Pass||8/20/2023 9:11:04 AM|3088.30400151014
+8/20/2023 9:11:11 AM|playerStat|for|12|Gainline Success|4|8/20/2023 9:11:11 AM|3090.02793830633
+8/20/2023 9:11:15 AM|playerStat|for|6|Effective Ruck||8/20/2023 9:11:15 AM|3090.55153739452
+8/20/2023 9:11:16 AM|playerStat|for|8|Effective Ruck||8/20/2023 9:11:16 AM|3091.18237477541
+8/20/2023 9:11:19 AM|playerStat|for|9|Good Pass||8/20/2023 9:11:19 AM|3092.83441317081
+8/20/2023 9:11:25 AM|playerStat|for|3|Gainline Success|4|8/20/2023 9:11:25 AM|3095.391071558
+8/20/2023 9:11:30 AM|playerStat|for|4|Effective Ruck||8/20/2023 9:11:30 AM|3096.11493003368
+8/20/2023 9:11:31 AM|playerStat|for|5|Effective Ruck||8/20/2023 9:11:31 AM|3096.54063355923
+8/20/2023 9:11:35 AM|playerStat|for|9|Good Pass||8/20/2023 9:11:35 AM|3099.09769815207
+8/20/2023 9:11:45 AM|playerStat|for|8|Gainline Success|1|8/20/2023 9:11:45 AM|3104.63793706894
+8/20/2023 9:11:49 AM|playerStat|for|3|Effective Ruck||8/20/2023 9:11:49 AM|3105.47959518433
+8/20/2023 9:11:52 AM|playerStat|for|6|Effective Ruck||8/20/2023 9:11:52 AM|3105.75256538391
+8/20/2023 9:12:23 AM|playerStat|for|7|Gainline Success|1|8/20/2023 9:12:23 AM|3111.81843441725
+8/20/2023 9:12:24 AM|playerStat|for|1|Effective Ruck||8/20/2023 9:12:24 AM|3112.43139874935
+8/20/2023 9:12:27 AM|playerStat|for|2|Effective Ruck||8/20/2023 9:12:27 AM|3112.66212356091
+8/20/2023 9:12:42 AM|playerStat|for|6|Gainline unsuccessful|1|8/20/2023 9:12:42 AM|3116.87203896046
+8/20/2023 9:12:48 AM|playerStat|for|2|Effective Ruck||8/20/2023 9:12:48 AM|3116.98821377754
+8/20/2023 9:12:49 AM|playerStat|for|5|Effective Ruck||8/20/2023 9:12:49 AM|3117.6893247366
+8/20/2023 9:13:15 AM|playerStat|for|1|Gainline Success|1|8/20/2023 9:13:15 AM|3126.42396491766
+8/20/2023 9:13:24 AM|playerStat|for|9|Good Pass||8/20/2023 9:13:24 AM|3134.17436879873
+8/20/2023 9:13:31 AM|playerStat|for|10|Gainline unsuccessful|0|8/20/2023 9:13:31 AM|3135.82600098848
+8/20/2023 9:13:37 AM|playerStat|for|9|Effective Ruck||8/20/2023 9:13:37 AM|3138.99481129646
+8/20/2023 9:13:38 AM|playerStat|for|13|Effective Ruck||8/20/2023 9:13:38 AM|3139.3859873414
+8/20/2023 9:13:53 AM|playerStat|for|3|Gainline unsuccessful|0|8/20/2023 9:13:53 AM|3146.34875845909
+8/20/2023 9:13:55 AM|playerStat|for|5|Effective Ruck||8/20/2023 9:13:55 AM|3147.93986600637
+8/20/2023 9:13:56 AM|playerStat|for|8|Effective Ruck||8/20/2023 9:13:56 AM|3148.35094612837
+8/20/2023 9:14:38 AM|playerStat|for|5|Ball Lost||8/20/2023 9:14:38 AM|3158.09906941652
+8/20/2023 9:15:03 AM|playerStat|against|11|Kick Fielded Successfully||8/20/2023 9:15:03 AM|3205.73602509499
+8/20/2023 9:15:08 AM|playerStat|for|11|Defender Beaten|1|8/20/2023 9:15:08 AM|3209.17090010643
+8/20/2023 9:15:14 AM|playerStat|for|11|Carries in Open Play|12|8/20/2023 9:15:14 AM|3212.16179233789
+8/20/2023 9:15:20 AM|playerStat|for|8|Effective Ruck||8/20/2023 9:15:20 AM|3213.08956605196
+8/20/2023 9:15:21 AM|playerStat|for|6|Effective Ruck||8/20/2023 9:15:21 AM|3213.73624545336
+8/20/2023 9:15:23 AM|playerStat|for|9|Good Pass||8/20/2023 9:15:23 AM|3215.41224998236
+8/20/2023 9:15:42 AM|playerStat|for|10|Avg Kick|24|8/20/2023 9:15:42 AM|3219.05997675657
+8/20/2023 9:15:45 AM|playerStat|for|15|Kick Fielded Unsuccessfully||8/20/2023 9:15:45 AM|3219.89879143238
+8/20/2023 9:16:14 AM|playerStat|for|12|Defender Beaten|1|8/20/2023 9:16:14 AM|3252.47689110041
+8/20/2023 9:16:18 AM|playerStat|for|12|Carries in Open Play|13|8/20/2023 9:16:18 AM|3254.30156689882
+8/20/2023 9:16:23 AM|playerStat|for|9|Effective Ruck||8/20/2023 9:16:23 AM|3254.98114895821
+8/20/2023 9:16:26 AM|playerStat|for|13|Effective Ruck||8/20/2023 9:16:26 AM|3255.37557464838
+8/20/2023 9:16:28 AM|playerStat|for|3|Effective Ruck||8/20/2023 9:16:28 AM|3256.24485474825
+8/20/2023 9:16:34 AM|playerStat|for|7|Good Pass||8/20/2023 9:16:34 AM|3260.156208992
+8/20/2023 9:16:38 AM|playerStat|for|4|Gainline Success|3|8/20/2023 9:16:38 AM|3261.87811475992
+8/20/2023 9:16:39 AM|playerStat|for|2|Effective Ruck||8/20/2023 9:16:39 AM|3262.78029751778
+8/20/2023 9:16:42 AM|playerStat|for|5|Effective Ruck||8/20/2023 9:16:42 AM|3263.42291486263
+8/20/2023 9:16:46 AM|playerStat|for|9|Good Pass||8/20/2023 9:16:46 AM|3266.26188617945
+8/20/2023 9:16:48 AM|playerStat|for|1|Good Pass||8/20/2023 9:16:48 AM|3267.56052565575
+8/20/2023 9:16:52 AM|playerStat|for|7|Defender Beaten|1|8/20/2023 9:16:52 AM|3268.04837864637
+8/20/2023 9:16:56 AM|playerStat|for|7|Gainline Success|5|8/20/2023 9:16:56 AM|3268.70521318913
+8/20/2023 9:16:58 AM|playerStat|for|1|Effective Ruck||8/20/2023 9:16:58 AM|3269.94332802296
+8/20/2023 9:17:02 AM|playerStat|for|9|Good Pass||8/20/2023 9:17:02 AM|3272.74492841959
+8/20/2023 9:17:04 AM|playerStat|for|10|Good Pass||8/20/2023 9:17:04 AM|3273.81487411261
+8/20/2023 9:17:09 AM|playerStat|for|8|Gainline Success|5|8/20/2023 9:17:09 AM|3276.40849721432
+8/20/2023 9:17:12 AM|playerStat|for|11|Effective Ruck||8/20/2023 9:17:12 AM|3277.45650780201
+8/20/2023 9:17:17 AM|playerStat|for|8|Ball Lost||8/20/2023 9:17:17 AM|3280.34544241428
+8/20/2023 9:17:20 AM|deletePlayerStat|for|8|Ball Lost|3280.35
+8/20/2023 9:17:21 AM|playerStat|against|8|Ball Lost||8/20/2023 9:17:21 AM|3280.80526721478
+8/20/2023 9:17:30 AM|playerStat|against|6|Neutral Tackle|2|8/20/2023 9:17:30 AM|3283.37289315462
+8/20/2023 9:17:51 AM|playerStat|against|5|Tackle Assist||8/20/2023 9:17:51 AM|3283.49881690741
+8/20/2023 9:17:55 AM|playerStat|against|6|Defender in Position||8/20/2023 9:17:55 AM|3286.52383041382
+8/20/2023 9:17:57 AM|playerStat|against|5|Defender in Position||8/20/2023 9:17:57 AM|3287.65267592669
+8/20/2023 9:18:09 AM|playerStat|against|13|Passive Tackle|2|8/20/2023 9:18:09 AM|3296.42103117704
+8/20/2023 9:18:13 AM|playerStat|against|13|Defender in Position||8/20/2023 9:18:13 AM|3299.0479631424
+8/20/2023 9:18:23 AM|playerStat|against|14|Kick Fielded Successfully||8/20/2023 9:18:23 AM|3306.16346758604
+8/20/2023 9:18:30 AM|playerStat|for|13|Penalty Conceded||8/20/2023 9:18:30 AM|3296.25204962492
+8/20/2023 9:18:36 AM|deletePlayerStat|for|13|Penalty Conceded|3296.25
+8/20/2023 9:18:38 AM|playerStat|against|13|Penalty Conceded||8/20/2023 9:18:38 AM|3297.28909265995
+8/20/2023 9:19:09 AM|playerStat|against|10|Dominant Tackle|2|8/20/2023 9:19:09 AM|3385.03601324558
+8/20/2023 9:19:11 AM|playerStat|against|10|Defender in Position||8/20/2023 9:19:11 AM|3386.04421567917
+8/20/2023 9:19:27 AM|playerStat|against|12|Dominant Tackle|2|8/20/2023 9:19:27 AM|3386.13479954004
+8/20/2023 9:19:30 AM|playerStat|against|12|Defender in Position||8/20/2023 9:19:30 AM|3387.88595211506
+8/20/2023 9:19:52 AM|playerStat|against|12|Penalty Conceded||8/20/2023 9:19:52 AM|3387.84655016661
+8/20/2023 9:20:47 AM|playerStat|against|4|Tackle Missed||8/20/2023 9:20:47 AM|3456.43640589714
+8/20/2023 9:20:51 AM|playerStat|against|3|Neutral Tackle|3|8/20/2023 9:20:51 AM|3458.3094201684
+8/20/2023 9:21:07 AM|playerStat|against|16|Neutral Tackle|2|8/20/2023 9:21:07 AM|3464.51014947891
+8/20/2023 9:21:09 AM|playerStat|against|16|Defender in Position||8/20/2023 9:21:09 AM|3466.04195100069
+8/20/2023 9:21:42 AM|playerStat|against|8|Effective Ruck||8/20/2023 9:21:42 AM|3465.11133384705
+8/20/2023 9:21:55 AM|playerStat|against|2|Neutral Tackle|2|8/20/2023 9:21:55 AM|3473.60387545824
+8/20/2023 9:21:59 AM|playerStat|against|16|Tackle Assist||8/20/2023 9:21:59 AM|3474.45040804148
+8/20/2023 9:22:03 AM|playerStat|against|2|Defender in Position||8/20/2023 9:22:03 AM|3477.35315364599
+8/20/2023 9:22:13 AM|playerStat|against|12|Neutral Tackle|2|8/20/2023 9:22:13 AM|3482.05092203617
+8/20/2023 9:22:14 AM|playerStat|against|16|Defender in Position||8/20/2023 9:22:14 AM|3482.3669500351
+8/20/2023 9:22:28 AM|playerStat|against|10|Dominant Tackle|2|8/20/2023 9:22:28 AM|3488.44419282675
+8/20/2023 9:22:34 AM|playerStat|against|16|Effective Ruck||8/20/2023 9:22:34 AM|3489.95690268278
+8/20/2023 9:22:35 AM|playerStat|against|10|Defender in Position||8/20/2023 9:22:35 AM|3490.59952002764
+8/20/2023 9:23:02 AM|playerStat|against|12|Defender in Position||8/20/2023 9:23:02 AM|3494.74322390556
+8/20/2023 9:23:08 AM|playerStat|against|13|Dominant Tackle|2|8/20/2023 9:23:08 AM|3496.35829758644
+8/20/2023 9:23:10 AM|playerStat|against|6|Tackle Assist||8/20/2023 9:23:10 AM|3497.93884378672
+8/20/2023 9:23:13 AM|playerStat|against|6|Defender in Position||8/20/2023 9:23:13 AM|3499.54579335451
+8/20/2023 9:23:24 AM|playerStat|against|13|Defender in Position||8/20/2023 9:23:24 AM|3503.7199626565
+8/20/2023 9:23:41 AM|playerStat|against|4|Neutral Tackle|2|8/20/2023 9:23:41 AM|3505.31431984901
+8/20/2023 9:23:45 AM|playerStat|against|4|Defender in Position||8/20/2023 9:23:45 AM|3508.22803300619
+8/20/2023 9:23:53 AM|playerStat|against|15|Dominant Tackle|2|8/20/2023 9:23:53 AM|3511.67184454203
+8/20/2023 9:24:00 AM|playerStat|against|15|Defender in Position||8/20/2023 9:24:00 AM|3512.70929378271
+8/20/2023 9:24:44 AM|playerStat|for|11|Good Pass||8/20/2023 9:24:44 AM|3628.19518607855
+8/20/2023 9:24:49 AM|playerStat|for|6|Carries in Open Play|1|8/20/2023 9:24:49 AM|3628.710254848
+8/20/2023 9:24:53 AM|playerStat|for|4|Effective Ruck||8/20/2023 9:24:53 AM|3629.59903281927
+8/20/2023 9:24:54 AM|playerStat|for|5|Effective Ruck||8/20/2023 9:24:54 AM|3630.2977065444
+8/20/2023 9:25:00 AM|playerStat|for|9|Bad Pass||8/20/2023 9:25:00 AM|3634.18956291676
+8/20/2023 9:25:29 AM|playerStat|for|10|Kick at Goal Successful|1|8/20/2023 9:25:29 AM|3713.7973408103
+8/20/2023 9:25:39 AM|deletePlayerStat|for|10|Kick at Goal Successful|3713.8
+8/20/2023 9:25:41 AM|playerStat|for|10|Kick at Goal Un Successful|1|8/20/2023 9:25:41 AM|3713.79530978203
+8/20/2023 9:26:22 AM|playerStat|for|9|Good Kick|37|8/20/2023 9:26:22 AM|3739.53209382296
+8/20/2023 9:26:42 AM|playerStat|against|15|Kick Fielded Successfully||8/20/2023 9:26:42 AM|3746.54198479652
+8/20/2023 9:26:51 AM|playerStat|for|15|Carries in Open Play|14|8/20/2023 9:26:51 AM|3750.14462274313
+8/20/2023 9:26:56 AM|playerStat|for|6|Effective Ruck||8/20/2023 9:26:56 AM|3751.55659359694
+8/20/2023 9:27:05 AM|playerStat|for|12|Effective Ruck||8/20/2023 9:27:05 AM|3752.69681286812
+8/20/2023 9:27:30 AM|playerStat|for|2|Ball Lost||8/20/2023 9:27:30 AM|3810.93857955933
+8/20/2023 9:27:38 AM|playerStat|against|13|Tackle Missed||8/20/2023 9:27:38 AM|3817.34119307995
+8/20/2023 9:27:45 AM|playerStat|against|16|Passive Tackle|2|8/20/2023 9:27:45 AM|3817.53576558828
+8/20/2023 9:27:48 AM|playerStat|against|8|Effective Ruck||8/20/2023 9:27:48 AM|3819.12971657515
+8/20/2023 9:27:49 AM|playerStat|against|11|Effective Ruck||8/20/2023 9:27:49 AM|3819.85154402256
+8/20/2023 9:27:51 AM|playerStat|against|16|Defender in Position||8/20/2023 9:27:51 AM|3821.25864040852
+8/20/2023 9:27:59 AM|playerStat|against|16|Passive Tackle|2|8/20/2023 9:27:59 AM|3825.91903787851
+8/20/2023 9:28:06 AM|playerStat|against|16|Defender in Position||8/20/2023 9:28:06 AM|3828.25878244638
+8/20/2023 9:28:15 AM|playerStat|against|11|Kick Fielded Successfully||8/20/2023 9:28:15 AM|3835.56926560402
+8/20/2023 9:28:24 AM|playerStat|for|11|Bad Pass||8/20/2023 9:28:24 AM|3836.65058505535
+8/20/2023 9:28:30 AM|playerStat|for|15|Carries in Open Play|2|8/20/2023 9:28:30 AM|3838.74254417419
+8/20/2023 9:28:34 AM|playerStat|for|13|Effective Ruck||8/20/2023 9:28:34 AM|3839.74140387774
+8/20/2023 9:28:43 AM|playerStat|for|12|Effective Ruck||8/20/2023 9:28:43 AM|3840.6098715663
+8/20/2023 9:28:47 AM|playerStat|for|4|Effective Ruck||8/20/2023 9:28:47 AM|3843.45656079054
+8/20/2023 9:28:52 AM|playerStat|for|9|Good Pass||8/20/2023 9:28:52 AM|3847.72253257036
+8/20/2023 9:28:56 AM|playerStat|for|16|Avg Pass||8/20/2023 9:28:56 AM|3849.21615076065
+8/20/2023 9:29:01 AM|playerStat|for|6|Gainline Success|4|8/20/2023 9:29:01 AM|3851.25611555576
+8/20/2023 9:29:03 AM|playerStat|for|11|Effective Ruck||8/20/2023 9:29:03 AM|3852.4942303896
+8/20/2023 9:29:04 AM|playerStat|for|16|Effective Ruck||8/20/2023 9:29:04 AM|3853.44515782595
+8/20/2023 9:29:07 AM|playerStat|for|9|Good Pass||8/20/2023 9:29:07 AM|3855.36772918701
+8/20/2023 9:29:13 AM|playerStat|for|12|Defender Beaten|2|8/20/2023 9:29:13 AM|3858.00278526545
+8/20/2023 9:29:17 AM|playerStat|for|12|Gainline Success|15|8/20/2023 9:29:17 AM|3859.7624681592
+8/20/2023 9:29:24 AM|playerStat|for|8|Effective Ruck||8/20/2023 9:29:24 AM|3861.12528812885
+8/20/2023 9:29:25 AM|playerStat|for|4|Effective Ruck||8/20/2023 9:29:25 AM|3861.45025265217
+8/20/2023 9:29:25 AM|playerStat|for|5|Effective Ruck||8/20/2023 9:29:25 AM|3861.49534147978
+8/20/2023 9:29:28 AM|playerStat|for|9|Good Pass||8/20/2023 9:29:28 AM|3862.99911481142
+8/20/2023 9:29:35 AM|playerStat|for|3|Gainline unsuccessful|4|8/20/2023 9:29:35 AM|3866.87959742546
+8/20/2023 9:29:37 AM|playerStat|for|4|Effective Ruck||8/20/2023 9:29:37 AM|3867.76187610626
+8/20/2023 9:29:41 AM|playerStat|for|2|Effective Ruck||8/20/2023 9:29:41 AM|3868.16808176041
+8/20/2023 9:29:46 AM|playerStat|for|9|Good Pass||8/20/2023 9:29:46 AM|3872.80288827419
+8/20/2023 9:29:49 AM|deletePlayerStat|for|9|Good Pass|3872.8
+8/20/2023 9:29:52 AM|playerStat|for|9|Avg Pass||8/20/2023 9:29:52 AM|3873.36345207691
+8/20/2023 9:29:53 AM|playerStat|for|13|Good Pass||8/20/2023 9:29:53 AM|3874.09543466568
+8/20/2023 9:29:58 AM|playerStat|for|16|Gainline unsuccessful|3|8/20/2023 9:29:58 AM|3875.44038158655
+8/20/2023 9:30:04 AM|playerStat|for|12|Effective Ruck||8/20/2023 9:30:04 AM|3876.89459782839
+8/20/2023 9:30:05 AM|playerStat|for|6|Effective Ruck||8/20/2023 9:30:05 AM|3877.29186695814
+8/20/2023 9:30:14 AM|playerStat|for|9|Good Pass||8/20/2023 9:30:14 AM|3885.49519014359
+8/20/2023 9:30:19 AM|playerStat|for|5|Gainline Success|4|8/20/2023 9:30:19 AM|3887.08711010218
+8/20/2023 9:30:24 AM|playerStat|for|2|Effective Ruck||8/20/2023 9:30:24 AM|3888.1676171422
+8/20/2023 9:30:28 AM|playerStat|for|9|Good Pass||8/20/2023 9:30:28 AM|3891.16541486979
+8/20/2023 9:30:34 AM|playerStat|for|15|Gainline Success|5|8/20/2023 9:30:34 AM|3893.92801952362
+8/20/2023 9:30:36 AM|playerStat|for|11|Effective Ruck||8/20/2023 9:30:36 AM|3894.40409255028
+8/20/2023 9:30:38 AM|playerStat|for|4|Effective Ruck||8/20/2023 9:30:38 AM|3895.52725118399
+8/20/2023 9:30:42 AM|playerStat|for|9|Good Pass||8/20/2023 9:30:42 AM|3898.69890493155
+8/20/2023 9:30:45 AM|playerStat|for|2|Gainline unsuccessful|3|8/20/2023 9:30:45 AM|3900.20389688015
+8/20/2023 9:30:50 AM|playerStat|for|6|Effective Ruck||8/20/2023 9:30:50 AM|3901.13410782814
+8/20/2023 9:30:51 AM|playerStat|for|5|Effective Ruck||8/20/2023 9:30:51 AM|3901.64308351278
+8/20/2023 9:30:55 AM|playerStat|for|9|Good Pass||8/20/2023 9:30:55 AM|3904.241987288
+8/20/2023 9:31:08 AM|playerStat|for|1|Gainline Success|6|8/20/2023 9:31:08 AM|3906.96600240469
+8/20/2023 9:31:10 AM|playerStat|for|1|Ball Lost||8/20/2023 9:31:10 AM|3907.97379863262
+8/20/2023 9:31:17 AM|playerStat|against|8|Ball Lost||8/20/2023 9:31:17 AM|3908.76711827517
+8/20/2023 9:31:20 AM|deletePlayerStat|against|8|Ball Lost|3908.77
+8/20/2023 9:32:07 AM|playerStat|against|14|Passive Tackle|3|8/20/2023 9:32:07 AM|3974.08579987288
+8/20/2023 9:32:08 AM|playerStat|against|12|Tackle Assist||8/20/2023 9:32:08 AM|3974.55090534687
+8/20/2023 9:32:13 AM|playerStat|against|12|Defender in Position||8/20/2023 9:32:13 AM|3976.63067829609
+8/20/2023 9:32:13 AM|playerStat|against|14|Defender in Position||8/20/2023 9:32:13 AM|3976.83093768358
+8/20/2023 9:32:28 AM|playerStat|against|2|Neutral Tackle|2|8/20/2023 9:32:28 AM|3981.52586263418
+8/20/2023 9:32:31 AM|playerStat|against|16|Tackle Assist||8/20/2023 9:32:31 AM|3982.26962518692
+8/20/2023 9:32:32 AM|playerStat|against|16|Defender in Position||8/20/2023 9:32:32 AM|3983.31560474634
+8/20/2023 9:32:34 AM|playerStat|against|2|Defender in Position||8/20/2023 9:32:34 AM|3984.51756727695
+8/20/2023 9:32:43 AM|playerStat|against|11|Kick Fielded Successfully||8/20/2023 9:32:43 AM|3992.3187468648
+8/20/2023 9:32:50 AM|playerStat|for|11|Carries in Open Play|20|8/20/2023 9:32:50 AM|3996.80569452047
+8/20/2023 9:32:54 AM|playerStat|for|5|Effective Ruck||8/20/2023 9:32:54 AM|3998.43132954836
+8/20/2023 9:33:00 AM|playerStat|for|4|Effective Ruck||8/20/2023 9:33:00 AM|3999.34732329845
+8/20/2023 9:33:06 AM|playerStat|for|9|Good Pass||8/20/2023 9:33:06 AM|4004.07474470139
+8/20/2023 9:33:09 AM|playerStat|for|13|Good Pass||8/20/2023 9:33:09 AM|4005.22958737612
+8/20/2023 9:33:15 AM|playerStat|for|8|Gainline unsuccessful|5|8/20/2023 9:33:15 AM|4007.93938529491
+8/20/2023 9:33:19 AM|playerStat|for|12|Effective Ruck||8/20/2023 9:33:19 AM|4009.0060813427
+8/20/2023 9:33:24 AM|playerStat|for|6|Effective Ruck||8/20/2023 9:33:24 AM|4009.75349974632
+8/20/2023 9:33:28 AM|playerStat|for|9|Good Pass||8/20/2023 9:33:28 AM|4013.1871561408
+8/20/2023 9:33:35 AM|playerStat|for|15|Good Pass||8/20/2023 9:33:35 AM|4015.27789664268
+8/20/2023 9:33:51 AM|playerStat|for|14|Gainline Success|6|8/20/2023 9:33:51 AM|4017.07129460573
+8/20/2023 9:34:01 AM|playerStat|for|9|Effective Ruck||8/20/2023 9:34:01 AM|4018.51779294014
+8/20/2023 9:34:09 AM|playerStat|for|15|Effective Ruck||8/20/2023 9:34:09 AM|4019.78921663761
+8/20/2023 9:34:11 AM|playerStat|for|13|Effective Ruck||8/20/2023 9:34:11 AM|4020.64102989435
+8/20/2023 9:34:15 AM|playerStat|for|15|Good Pass||8/20/2023 9:34:15 AM|4024.1157130599
+8/20/2023 9:34:20 AM|playerStat|for|6|Defender Beaten|1|8/20/2023 9:34:20 AM|4025.74865978956
+8/20/2023 9:34:27 AM|playerStat|for|6|Gainline Success|7|8/20/2023 9:34:27 AM|4028.29150718451
+8/20/2023 9:34:31 AM|playerStat|for|6|Ball Lost||8/20/2023 9:34:31 AM|4028.27485275269
+8/20/2023 9:34:33 AM|deletePlayerStat|for|6|Gainline Success|4028.29
+8/20/2023 9:34:39 AM|playerStat|against|6|Gainline Success|7|8/20/2023 9:34:39 AM|4027.31133294106
+8/20/2023 9:34:49 AM|playerStat|for|16|Kick Fielded Successfully||8/20/2023 9:34:49 AM|4035.96879404783
+8/20/2023 9:34:53 AM|playerStat|for|16|Avg Pass||8/20/2023 9:34:53 AM|4037.75244307518
+8/20/2023 9:34:59 AM|playerStat|for|5|Good Pass||8/20/2023 9:34:59 AM|4038.6753423214
+8/20/2023 9:35:08 AM|playerStat|for|15|Avg Kick|25|8/20/2023 9:35:08 AM|4043.58311903477
+8/20/2023 9:36:31 AM|playerStat|for|9|Good Pass||8/20/2023 9:36:31 AM|4118.58127516508
+8/20/2023 9:37:04 AM|playerStat|for|10|Good Kick|40|8/20/2023 9:37:04 AM|4124.14101195335
+8/20/2023 9:37:21 AM|playerStat|against|5|Turnover Made||8/20/2023 9:37:21 AM|4155.70237886906
+8/20/2023 9:37:30 AM|playerStat|for|5|Gainline Success|2|8/20/2023 9:37:30 AM|4157.41291087866
+8/20/2023 9:37:53 AM|playerStat|for|7|Effective Ruck||8/20/2023 9:37:53 AM|4158.62218511105
+8/20/2023 9:37:54 AM|playerStat|for|8|Effective Ruck||8/20/2023 9:37:54 AM|4158.90124839544
+8/20/2023 9:37:58 AM|playerStat|for|9|Good Pass||8/20/2023 9:37:58 AM|4161.14431601763
+8/20/2023 9:38:03 AM|playerStat|for|12|Gainline unsuccessful|4|8/20/2023 9:38:03 AM|4162.82194536924
+8/20/2023 9:38:07 AM|playerStat|for|13|Effective Ruck||8/20/2023 9:38:07 AM|4165.1848436594
+8/20/2023 9:38:10 AM|playerStat|for|2|Effective Ruck||8/20/2023 9:38:10 AM|4164.66083836555
+8/20/2023 9:38:16 AM|playerStat|for|9|Good Pass||8/20/2023 9:38:16 AM|4167.39135277271
+8/20/2023 9:38:21 AM|playerStat|for|1|Gainline Success|4|8/20/2023 9:38:21 AM|4169.5024035573
+8/20/2023 9:38:27 AM|playerStat|for|4|Effective Ruck||8/20/2023 9:38:27 AM|4171.02892440557
+8/20/2023 9:38:31 AM|playerStat|for|9|Good Pass||8/20/2023 9:38:31 AM|4173.82889997959
+8/20/2023 9:38:37 AM|playerStat|for|10|Avg Pass||8/20/2023 9:38:37 AM|4175.26443076134
+8/20/2023 9:38:40 AM|playerStat|for|14|Ball Lost||8/20/2023 9:38:40 AM|4176.56631988287
+8/20/2023 9:38:46 AM|playerStat|against|14|Neutral Tackle|2|8/20/2023 9:38:46 AM|4177.22193580866
+8/20/2023 9:38:56 AM|playerStat|against|6|Tackle Assist||8/20/2023 9:38:56 AM|4177.34948438406
+8/20/2023 9:38:58 AM|playerStat|against|14|Defender in Position||8/20/2023 9:38:58 AM|4178.05628222227
+8/20/2023 9:38:59 AM|playerStat|against|6|Defender in Position||8/20/2023 9:38:59 AM|4178.33412688971
+8/20/2023 9:39:06 AM|playerStat|against|7|Neutral Tackle|2|8/20/2023 9:39:06 AM|4179.37888783216
+8/20/2023 9:39:09 AM|playerStat|against|7|Defender in Position||8/20/2023 9:39:09 AM|4182.10087192059
+8/20/2023 9:39:23 AM|playerStat|against|3|Tackle Missed||8/20/2023 9:39:23 AM|4186.29494529963
+8/20/2023 9:39:27 AM|playerStat|against|13|Passive Tackle|2|8/20/2023 9:39:27 AM|4187.25359064341
+8/20/2023 9:39:34 AM|playerStat|against|9|Effective Ruck||8/20/2023 9:39:34 AM|4189.90123909712
+8/20/2023 9:39:36 AM|playerStat|against|13|Defender in Position||8/20/2023 9:39:36 AM|4191.30224239826
+8/20/2023 9:39:42 AM|playerStat|against|15|Kick Fielded Successfully||8/20/2023 9:39:42 AM|4194.10709244013
+8/20/2023 9:39:59 AM|playerStat|for|15|Good Kick|38|8/20/2023 9:39:59 AM|4199.69770085812
+8/20/2023 9:40:43 AM|playerStat|against|10|Dominant Tackle|2|8/20/2023 9:40:43 AM|4237.46710878611
+8/20/2023 9:40:47 AM|playerStat|against|10|Defender in Position||8/20/2023 9:40:47 AM|4238.78565233946
+8/20/2023 9:40:52 AM|playerStat|against|12|Intercept||8/20/2023 9:40:52 AM|4239.50869840384
+8/20/2023 9:40:57 AM|playerStat|for|12|Carries in Open Play|2|8/20/2023 9:40:57 AM|4241.8971876502
+8/20/2023 9:41:01 AM|playerStat|for|8|Effective Ruck||8/20/2023 9:41:01 AM|4242.53289949894
+8/20/2023 9:41:05 AM|playerStat|for|1|Effective Ruck||8/20/2023 9:41:05 AM|4243.09061986208
+8/20/2023 9:41:13 AM|playerStat|for|9|Good Pass||8/20/2023 9:41:13 AM|4250.25811862946
+8/20/2023 9:41:17 AM|playerStat|for|3|Gainline Success|5|8/20/2023 9:41:17 AM|4251.80494976044
+8/20/2023 9:41:20 AM|playerStat|for|5|Effective Ruck||8/20/2023 9:41:20 AM|4252.97075998783
+8/20/2023 9:41:24 AM|playerStat|for|9|Good Pass||8/20/2023 9:41:24 AM|4255.57778787613
+8/20/2023 9:41:38 AM|playerStat|for|4|Gainline Success|5|8/20/2023 9:41:38 AM|4257.47761172056
+8/20/2023 9:41:44 AM|playerStat|for|1|Effective Ruck||8/20/2023 9:41:44 AM|4258.94198310375
+8/20/2023 9:41:49 AM|playerStat|for|9|Effective Ruck||8/20/2023 9:41:49 AM|4260.1037312746
+8/20/2023 9:41:50 AM|playerStat|for|2|Effective Ruck||8/20/2023 9:41:50 AM|4260.57492983341
+8/20/2023 9:42:14 AM|playerStat|for|10|Kick at Goal Successful|1|8/20/2023 9:42:14 AM|4329.32361197472
+
